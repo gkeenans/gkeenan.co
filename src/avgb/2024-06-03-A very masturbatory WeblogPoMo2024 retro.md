@@ -1,0 +1,29 @@
+---
+permalink: "/avgb/a-very-masturbatory-weblogpomo2024-retrospective-featuring-me-your-favorite-idiot-keenan"
+title: "A very masturbatory WeblogPoMo2024 retrospective, starring me, Keenan"
+date: 2024-06-03T12:40:00.000Z
+---
+
+It seems like it was only 35 days ago that I [committed myself](https://gkeenan.co/avgb/weblogpomo2024) to embarking on the challenge of posting on my blog every day for the month of May. Despite the pessimism wrapped in a nice little facetious tortilla (new tongue-twister unlocked), I didn't actually have any sort of expectation about how the experience would go. All I knew was that it sounded like it had the potential to be fun, it was something I otherwise wouldn't have attempted, and it would be a nice opportunity to put together a [killer playlist](https://music.apple.com/us/playlist/weblogpomo2024-playlist/pl.u-55D6Pp3io8Jy5) and write about some songs I connect with.
+
+So I wrote. And—would you believe it!—the first piece came pretty easy. I even liked it! Bonus points!
+
+And then I kept writing. Every day for 14 days, I'd sit down and stare at a blank iA Writer document, knowing nothing other than what the next track in the playlist was. I'd put that track on—often listening to it on repeat for hours—and then I would write about the feelings and memories I experienced as a result. Sometimes the thematic elements were unsurprising, other times what I created was very different than what I had originally anticipated. But every day was the same, I sat down, I wrote, and I published. 
+
+That in and of itself felt like a triumph, considering how I've approached writing for the vast majority of my life. It's something I love doing, and it's the way that I think I best express myself, but my motivation to do so has almost always hinged on the unreliable presence of "inspiration." I haven't yet discovered a way to recreate the prolificacy of my years in college, when the omnipresent threat of expulsion was enough to keep me tapping away at my keyboard. Turns out, self-imposed deadlines don't actually mean anything when your baseline feeling about yourself is disappointment. What, am I gonna *feel bad* about letting myself down for missing a target? Buddy, get in line. I've had decades of self-loathing experience.
+
+But participating in WeblogPoMo is about the closest I've come to finding that spark. For two weeks, it helped me practice what many successful writers have told me throughout my life: you just need to write. Get your butt in the chair and do it. And for two weeks I surprised myself by creating 14 original pieces that I'm actually quite proud of.
+
+Yeah, I know, 14 pieces isn't quite living up to the spirit of the challenge. For the mathematically-averse, I would've had to write 17 more to reach the original goal of 31. But I hit a wall at a certain point, and realized that as important as it was for me to learn that I *can* produce work I'm proud of even when I'm not feeling particularly *inspired*, it was equally, if not *more* important that I reinforce the idea that I don't need to beat myself up for stepping away when something wasn't working.
+
+Day 15 was one wrought of fruitless rumination. Writing. Deleting. Rewriting. Reading. Hating. Pacing around the room. Going outside. Coming back to the computer. Rolling my eyes. For whatever reason, "John Wayne Gacy Jr." by Sufjan Stevens, a song I adore and *have lots of thoughts about*, just wasn't going to drive the same literary fervor as the previous songs. But rather than wallow in self-pity that my original prophecy would, in fact, come to pass, I looked at the work I *did* make and reveled in it. I created works of art I was proud of. I created works of art that felt like meaningful expressions of me as a person. And I created works of art that connected with other people. They reached out to tell me how much they meant to them. No, I didn't complete the challenge, but I did come away with the proof that I am capable of creating even when I'm not sure how I'm going to get there. How could I possibly be upset about that?
+
+All in all, over the course of 14 consecutive days, I wrote a total of **15,610** words (an average of **1,115** words per piece). I don't want to perpetuate some nonsensical notion that word count and value are intrinsically linked, but I think it's just further proof to me that I did the work. The [shortest piece](https://gkeenan.co/avgb/everything-and-nothing) was 129 words. The [longest](https://gkeenan.co/avgb/nostalgia-for-people-who-dont-want-to-be-trapped-in-the-past), 1,612.
+
+What's my favorite? I dunno. The memories I explored were significant and meaningful for a wide-array of reasons. I cried so much writing about my grandma. I got weirdly nostalgic about my dad's Toyota Tercel. I realized that as much as my 7th grade English teacher made me hate my favorite subject, he also gave me something beautiful I could cherish years later. I got to explore the deeper meaning of some of my favorite songs, and I got to understand me a little bit more.
+
+Overall, it meant so much to write these pieces. To prove to myself that I am capable. I still have things to say. My words mean something. I'm not upset or disappointed that I didn't make it to the end (really! Promise! Stop insinuating that I'm disappointed or upset! I'M NOT UPSET.). Quite the opposite: I feel more invigorated than I have in years.
+
+I couldn't be more grateful to [Annie](https://social.lol/@anniegreens) for planting this seed and encouraging me (and [so many others](https://weblog.anniegreens.lol/weblog-posting-month-2024/participators)!) to give this a go. It was a blast to read what other people were writing about. I admire the persistence of those who made it to the end, but, really, I am in awe of anyone who put themselves out there, and continue to do so.
+
+I really appreciate you all so much. Thanks for reading.

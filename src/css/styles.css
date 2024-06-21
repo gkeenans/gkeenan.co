@@ -1,0 +1,370 @@
+/* Global variables. */
+
+:root {
+  --font-family: -apple-system, system-ui, sans-serif;
+  --font-family-monospace: Courier New, monospace;
+  --font-mono: "TT2020", "Courier New", Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  --font-italic: "TT2020", "Courier New", Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+
+  
+    /* Default (light) theme */
+
+    --bg: #fff7f0;
+    --accent-bg: #f5f7ff;
+    --text: #333;
+    --text-light: #494949;
+    --border: #d8dae1;
+    --accent: #ff0069;
+  
+  }
+
+ /* Dark theme */
+
+  @media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0c0013;
+    --accent-bg: #2b2b2b;
+    --text: #f7ebff;
+    --text-light: #cface7;
+    --border: #795e8a;
+    --accent: #bd6dff;
+  }
+  }
+
+  @font-face {
+    font-family:"TT2020";
+    src: url("/css/fonts/TT2020Base-Regular.woff2");
+    font-style:normal;
+    font-display:swap
+  }
+  @font-face {
+    font-family:"TT2020";
+    src: url("/css/fonts/TT2020Base-Italic.woff2");
+    font-style:italic;
+    font-display:swap
+  }
+  @font-face {
+    font-family:"TT2020";
+    src: url("/css/fonts/TT2020StyleE-Italic.woff2");
+    font-weight:600;
+    font-style:italic;
+    font-display:swap
+  }
+ 
+
+  * {
+    box-sizing: border-box;
+  }
+
+  
+  html {
+
+  /* Set the font globally */
+
+  font-family: var(--font-mono);
+  scroll-behavior: smooth;
+ }
+  
+  /* Make the body a nice central block */
+
+  body {
+    color: var(--text);
+    background: var(--bg);
+    font-size: 1.3rem;
+    font-family: var(--font-mono);
+    line-height: 1.5;
+    margin: auto;
+    margin-top: -5.5rem;
+    max-width: 43em;
+    padding: 0 1em;
+    letter-spacing: 0.01rem;
+  }
+  
+  body > header {
+    text-align: left;
+    text-decoration: none;
+    padding: 2rem 0.5rem 0rem 0.5rem;
+    margin: 0 -12rem;
+    box-sizing: border-box;
+  }
+  
+  body > header h1 {
+    max-width: 100%;
+    margin: 5rem auto;
+    text-decoration: none !important;
+    color: var(--text-light);
+  }
+
+  #keename a{
+    color: var(--text-light);
+    text-decoration: none !important;
+    transition: color .25s;
+    position: static;
+    max-width: fit-content;
+  }
+
+  #keename a:hover {
+    color: var(--accent);
+    transition: color .25s;
+  }
+
+  body > main {
+    margin: -16.5rem 0 0 5rem;
+  }
+
+  body a {
+    text-decoration: none;
+    color: var(--accent);
+  }
+
+  body a:hover {
+    text-decoration: underline;
+  }
+
+  ul a {
+    text-decoration: underline;
+    color: var(--text)
+  }
+
+  ul a:hover {
+    color: var(--accent);
+  }
+
+  .bloglist {
+  list-style: none;
+  margin-left: -2.5rem;
+  }
+
+  h6.post-meta {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+
+  .kofiframe {
+    display: block;
+    justify-content: center;
+  }
+
+  blockquote {
+    border-left: 2px solid var(--text);
+    padding-left: 1.5rem;
+    margin-left: 2rem;
+  }
+
+  .footnote-ref {
+    font-size: 0.8rem;
+  }
+
+  
+  /* Format navigation */
+
+  #navprime {
+    font-size: 1.1rem;
+    position: relative;
+    line-height: .5;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    border-right: 1px solid var(--border);
+    padding-bottom: 15px;
+    top: -4rem;
+    left: -51.5rem;
+  }
+
+
+  #navprime a {
+    margin: 1rem 1rem 0 0;
+    color: var(--text);
+    text-decoration: underline;
+  }
+  
+  #navprime a:hover {
+    color: var(--accent);
+  }
+
+   
+  /* Add a little padding to ensure spacing is correct between content and nav */
+
+  main {
+    padding-top: 1.5rem;
+  }
+  
+  body > footer {
+    margin: 4rem 0 0 5rem;
+    padding: 2rem 0 0 0;
+    color: var(--text-light);
+    font-size: 0.9rem;
+    text-align: center;
+    border-top: 1px solid var(--border);
+  }
+  
+  /* Format text */
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight:600;
+    margin:1.5rem 0;
+    font-style:italic;
+    font-family:var(--font-italic);
+    color: var(--text-light);
+  }
+
+  #keename {
+    font-size: 3.6rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+  
+  h2 {
+    font-size: 2.6rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+  }
+
+  .post-title {
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-size: 1.6rem;
+  }
+
+  h4 {
+    padding-bottom: 2rem;
+    margin-top: -3rem;
+  }
+
+  h6 {
+    font-size: 1rem;
+  }
+
+  .metadate {
+    margin-bottom: 5rem;
+  }
+
+  .footnotes {
+    font-size: 1rem;
+  }
+
+
+  /* Images!!! */
+
+  img {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem 0 0 0;
+    max-width: 75%;
+  }
+
+  #aboutselfie {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Embeds!!!!!!!!!!!!!!! */
+
+  iframe.youtube {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    aspect-ratio: 16 /9 ;
+    width: 100%;
+  }
+
+  /* EDGE CASE SCREEN RESOLUTIONS */
+  
+  @media only screen and (max-width: 1250px) {
+    main {
+      width: 100%;
+      margin: 0 !important;
+      padding-top: 0.5rem !important;
+      }
+  
+    footer {
+      width: 100%;
+      margin: 0 !important;
+      }
+  
+    body > header {
+      position: static;
+      width: 100%;
+      padding-top: 2rem;
+      margin: -1rem;
+      }
+  
+    #keename {
+      position: static;
+      display: flex;
+      align-items: flex-start;
+      margin: 5rem 0 2rem 0;
+  
+      }
+  
+    #navprime {
+      position: static;
+      display: flex;
+      flex-direction: row;
+      border-right: 0;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 25px;
+      width: 100%;
+      }
+  }
+  
+  /* FOR ALL THE FUCKIN' SMALL SCREENS. PLEASE DETACH FROM YOUR PHONE (this is advice for me) */
+  
+  @media only screen and (max-width: 720px) {
+    #keename {
+      font-size: 2.8rem !important;
+    }
+
+    #navprime {
+      position: static;
+      margin-top: -5rem;
+      font-size: 1rem;
+      display: flex;
+      flex-direction: column !important;
+    }
+    
+    h1 {
+      font-size: 2.6rem;
+    }
+  
+    h2 {
+      font-size: 1.9rem;
+    }
+
+    h3 {
+      font-size: 1.3rem;
+    }
+
+    h6 {
+      font-size: 0.8rem;
+    }
+
+    body {
+      font-size: 1.1rem;
+    }
+
+    .footnotes {
+      font-size: 1rem;
+    }
+
+    img {
+      max-width: 100%;
+    }
+  
+  }
+  
+  /* Format links (maybe? Am I even gonna use this???)*/
+ 
+  
+  

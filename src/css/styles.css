@@ -3,8 +3,8 @@
 :root {
   --font-family: -apple-system, system-ui, sans-serif;
   --font-family-monospace: Courier New, monospace;
-  --font-mono: "TT2020", "Courier New", Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  --font-italic: "TT2020", "Courier New", Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  --font-mono: "TT2020";
+  --font-italic: "TT2020"; 
 
   
     /* Default (light) theme */

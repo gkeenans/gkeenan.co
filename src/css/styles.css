@@ -69,7 +69,6 @@
     color: var(--text);
     background: var(--bg);
     font-size: 1.3rem;
-    font-family: var(--font-mono);
     line-height: 1.5;
     margin: auto;
     margin-top: -5.5rem;

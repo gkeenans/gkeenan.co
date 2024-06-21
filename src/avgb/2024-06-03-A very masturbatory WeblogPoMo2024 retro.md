@@ -1,5 +1,5 @@
 ---
-permalink: "/avgb/a-very-masturbatory-weblogpomo2024-retrospective-featuring-me-your-favorite-idiot-keenan"
+permalink: "/avgb/a-very-masturbatory-weblogpomo2024-retrospective-featuring-me-your-favorite-idiot-keenan/index.html"
 title: "A very masturbatory WeblogPoMo2024 retrospective, starring me, Keenan"
 date: 2024-06-03T12:40:00.000Z
 ---

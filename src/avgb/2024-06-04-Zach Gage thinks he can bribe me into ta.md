@@ -1,5 +1,5 @@
 ---
-permalink: "/avgb/zach-gage-thinks-he-can-bribe-me-into-talking-about-pile-up-poker-the-new-game-on-puzzmo"
+permalink: "/avgb/zach-gage-thinks-he-can-bribe-me-into-talking-about-pile-up-poker-the-new-game-on-puzzmo/index.html"
 title: "Zach Gage thinks he can bribe me into talking about Pile-Up Poker, the new game on Puzzmo"
 date: 2024-06-04T12:00:00.000Z
 ---

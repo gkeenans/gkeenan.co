@@ -1,5 +1,5 @@
 ---
-permalink: "/avgb/i-really-like-everyone-on-my-blogroll-but-im-sorry-to-say-that-it-must-die"
+permalink: "/avgb/i-really-like-everyone-on-my-blogroll-but-im-sorry-to-say-that-it-must-die/index.html"
 title: "I really like everyone on my blogroll, but I'm sorry to say that it must die"
 date: 2024-06-06T23:57:00
 ---

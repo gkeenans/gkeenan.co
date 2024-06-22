@@ -100,7 +100,7 @@ I used to read the Credo and think that "At Apple our most important resource, o
   
 [^3]: I am, unfortunately, having a hard time finding that one in the Credo.  
   
-[^4]: Shoulda called it "One-_too_Many," amirite?  
+[^4]: Shoulda called it "One-_too_-Many," amirite?  
   
 [^5]: Believe me when I say that when we roleplayed these interactions during the training phase of the rollout, it was _insufferable._  
   

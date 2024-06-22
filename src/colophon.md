@@ -5,11 +5,11 @@ layout: base.njk
 
 ## Now that I'm not using Squarespace, I feel like I deserve one of them fancy Colophon pages
 
-I made this website.
+I made this website. I'm as shocked as your are.
 
 I learned how to use VS Code, which was a wild experience. I did try Nova on my Mac, and it is quite pretty, but ultimately I was too lazy and just decided to do this on my PC instead.
 
-I somehow made this myself using [Eleventy](https://11ty.dev). I don't know where it's hosted, because I'm still just coding shit. The fuck even is a CDN?
+I built the site using [Eleventy](https://11ty.dev). It's hosted on Netlify.
 
 I built it using HTML and CSS. There's a .js config file in the directory. Does that mean I did Javascript? Who knows! I copied and pasted some stuff in there and it seemed to work.
 

@@ -88,13 +88,13 @@ module.exports = function (eleventyConfig) {
     }
 });
 
-    return {
-      passthroughFileCopy: true,
-      dir: {
-        input: "src",
-        output: "public",
-        includes: "_includes",
-      },
-    };
-
+return {
+  passthroughFileCopy: true,
+    dir: {
+      input: "src",
+      output: "public",
+      includes: "_includes",
+    },
   };
+
+};

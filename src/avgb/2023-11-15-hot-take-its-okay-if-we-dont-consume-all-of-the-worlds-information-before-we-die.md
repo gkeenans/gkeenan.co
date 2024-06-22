@@ -6,7 +6,9 @@ date: 2023-11-15T23:57:32.000Z
 
 **Listen along with the audioblog:**
 
-\>
+<audio controls>
+    <source src="/assets/audio/AVGAB ep 1 trim silence.mp3" type="audio/mpeg">
+</audio>
 
 ---
 One of the more distressing qualities of humanity, in my mind, is the emphasis we collectively put on “efficiency.”[^1] It saturates our professional existence. It haunts our socioeconomic barometer. And it drives our current approach to both creating and appreciating art. It’s insidious, the inordinate amount of power “efficiency” holds over our daily lives, without even drawing much attention to itself, creeping up in unanticipated ways: the life hacks bombarding us on TikTok; the large language models we use to reduce the amount of effort we need to put into writing an email to our colleague; the Trim Silence feature on our podcast player of choice.

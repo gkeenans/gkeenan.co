@@ -8,7 +8,9 @@ date: 2024-02-02T21:04:39.000Z
 
 **Listen along with the audioblog:**
 
-
+<audio controls>
+    <source src="/assets/audio/AVGAB ep 4 rss readers.mp3" type="audio/mpeg">
+</audio>
 
 * * *
 

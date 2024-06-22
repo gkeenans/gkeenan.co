@@ -27,7 +27,7 @@ The solution my wife and I decided to try was setting up automations on our phon
 
  
 
-![A screenshot of a conversation where each person just keeps sending the same collection of emoji over and over.](/assets/img/astronauttime.jpeg)
+![A screenshot of a conversation where each person just keeps sending the same astronaut emoji over and over.](/assets/img/astronauttime.jpeg)
 
 <figcaption>
 

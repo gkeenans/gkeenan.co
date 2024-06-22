@@ -23,7 +23,7 @@ If you’re here, you’ve probably seen my photos, my VO work, podcasts, writin
 
 I don’t care. I’m not afraid to be seen trying (anymore).<br><br>
 
-<img id="aboutselfie" src="/assets/img/self.jpeg" alt="Self-portrait of a bearded, masculine-presenting person sitting cross-legged on a bed, taking a photo with an iPhone in a mirror. They have short, dark hair swept to one side, and they're wearing glasses, a pink hoodie, blue jeans, and have dark blue nail polish." width="500">
+<img id="aboutselfie" src="/assets/img/self.jpeg" alt="Self-portrait of a bearded, masculine-presenting person sitting cross-legged on a bed, taking a photo with an iPhone in a mirror. They have short, dark hair swept to one side, and they're wearing glasses, a pink hoodie, blue jeans, and dark blue nail polish." width="500">
 
 <h6 style="text-align: center">A relatively accurate depiction of what I look like.</h6><br>
 <hr></hr>

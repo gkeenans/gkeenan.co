@@ -124,4 +124,4 @@ I love how "Girl!" so effectively uses repetition to reinforce the joy and invig
 
 
 
-![](/assets/img/girl!.jpg)
+![Puffs of gray and white clouds blanket the sky, with patches of blue poking through here and there. In the background, the jagged, snow-capped peaks of the Canadian Rocky Mountains. In the foreground, a woman wearing sunglasses smiles widely at the camera. She has blonde hair that is whipping around in the wind as she sits on top of the mountain.](/assets/img/girl!.jpg)

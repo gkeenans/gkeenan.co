@@ -9,7 +9,7 @@ What the fuck is happening over at OpenAI? Reading the [latest development](http
 The one (and there is only one) benefit of social media is that these attention-starved dorks show their whole asses to us on a daily basis, with Very Important Business Tweets that read like the AIM away messages I posted in high school when I wanted nothing more than my crush to finally notice me.
 
 
-![](/assets/img/samaltdork.png)
+![An all-lowercase Tweet from Sam Altman that reads: "i love openai, and everything i've done over the past few days has been in service of keeping this team and its mission together. when i decided to join msft on sun evening, it was clear that was the best path for me and the team. with the new board a w satya's support, i'm looking forward to returning to openai, and building on our strong partnership with msft."](/assets/img/samaltdork.png)
 
 
 <h6 style="text-align: center">The one time I wish he cared about capital.</h6>

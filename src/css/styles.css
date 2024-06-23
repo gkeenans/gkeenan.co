@@ -7,7 +7,7 @@
   
     /* Default (light) theme */
 
-    --bg: #fff7f0;
+    --bg: #fff6ee;
     --accent-bg: #f5f7ff;
     --text: #333;
     --text-light: #494949;
@@ -22,10 +22,14 @@
   :root {
     --bg: #0c0013;
     --accent-bg: #2b2b2b;
-    --text: #f7ebff;
-    --text-light: #cface7;
+    --text: #ffd4e6;
+    --text-light: #e0c3cf;
     --border: #795e8a;
-    --accent: #bd6dff;
+    --accent: #ff6fab;
+  }
+
+  img {
+    opacity: 85%;
   }
   }
 
@@ -61,7 +65,7 @@
 
   font-family: var(--font-mono);
   scroll-behavior: smooth;
- }
+  }
   
   /* Make the body a nice central block */
 
@@ -152,7 +156,6 @@
   .footnote-ref {
     font-size: 0.8rem;
   }
-
   
   /* Format navigation */
 
@@ -169,10 +172,9 @@
     left: -51.5rem;
   }
 
-
   #navprime a {
     margin: 1rem 1rem 0 0;
-    color: var(--text);
+    color: var(--text-light);
     text-decoration: underline;
   }
   
@@ -180,7 +182,6 @@
     color: var(--accent);
   }
 
-   
   /* Add a little padding to ensure spacing is correct between content and nav */
 
   main {
@@ -283,7 +284,7 @@
     width: 300px;
     height: 30px;
     border-radius: 5px;
-}
+  }
 
   /* EDGE CASE SCREEN RESOLUTIONS */
   

@@ -3,7 +3,7 @@ title: Wants
 layout: base.njk
 ---
 
-## Wants
+## Wants.
 
 ### Lovingly stolen from [Katherine](https://kayserifserif.place/intentions/): “A list of intentions; a poem; the ‘I want’ song; not a bucket list——” 
 

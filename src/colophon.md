@@ -3,7 +3,7 @@ title: Colophon
 layout: base.njk
 ---
 
-## Now that I'm not using Squarespace, I feel like I deserve one of them fancy Colophon pages
+## Now that I'm not using Squarespace, I feel like I deserve one of them fancy Colophon pages.
 
 I made this website. I'm as shocked as your are.
 

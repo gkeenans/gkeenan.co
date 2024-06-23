@@ -3,7 +3,7 @@ title: Now
 layout: base.njk
 ---
 
-## Now
+## Now.
 ---
 
 ### What the hell is this?

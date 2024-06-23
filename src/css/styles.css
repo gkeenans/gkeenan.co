@@ -250,6 +250,15 @@
     font-size: 1rem;
   }
 
+  .imgcap {
+    font-weight:600;
+    font-size: 1rem;
+    margin:1.5rem 0;
+    font-style:italic;
+    font-family:var(--font-italic);
+    color: var(--text-light);
+    text-align: center;
+  }
 
   /* Images!!! */
 
@@ -258,13 +267,6 @@
     margin: 0 auto;
     padding: 1rem 0 0 0;
     max-width: 75%;
-  }
-
-  #aboutselfie {
-    display: block;
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   /* Embeds!!!!!!!!!!!!!!! */
@@ -309,7 +311,6 @@
       display: flex;
       align-items: flex-start;
       margin: 5rem 0 2rem 0;
-  
       }
   
     #navprime {
@@ -363,9 +364,13 @@
     }
 
     img {
-      max-width: 100%;
+      max-width: 80%;
     }
-  
+
+    .imgcap {
+      font-size: 0.8rem;
+    }
+
   }
   
   /* Format links (maybe? Am I even gonna use this???)*/

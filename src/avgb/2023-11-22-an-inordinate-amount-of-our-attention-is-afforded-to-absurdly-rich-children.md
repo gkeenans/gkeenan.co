@@ -12,7 +12,7 @@ The one (and there is only one) benefit of social media is that these attention-
 ![An all-lowercase Tweet from Sam Altman that reads: "i love openai, and everything i've done over the past few days has been in service of keeping this team and its mission together. when i decided to join msft on sun evening, it was clear that was the best path for me and the team. with the new board a w satya's support, i'm looking forward to returning to openai, and building on our strong partnership with msft."](/assets/img/samaltdork.png)
 
 
-<h6 style="text-align: center">The one time I wish he cared about capital.</h6>
+<div class="imgcap">The one time I wish he cared about capital.</div>
 
 
 We’re supposed to revere these people? Really? This is the culmination of five days of petty posturing. [Tantrum](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) upon [tantrum](https://www.theinformation.com/articles/openai-co-founder-altman-plans-new-venture) upon [tantrum](https://www.theverge.com/2023/11/17/23966277/openai-co-founder-greg-brockman-leaving) upon [tantrum](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo) upon [tantrum](https://www.theverge.com/2023/11/20/23968988/openai-employees-resignation-letter-microsoft-sam-altman), with Microsoft pretending to be the adults in the room in a desperate attempt to save face with investors because god forbid it appear as though their over-inflated company value could dwindle.

@@ -153,8 +153,8 @@
     margin-left: 2rem;
   }
 
-  .footnote-ref {
-    font-size: 0.8rem;
+  .footnotes {
+    padding-top: 0.5rem;
   }
   
   /* Format navigation */
@@ -249,6 +249,10 @@
 
   .footnotes {
     font-size: 1rem;
+  }
+
+  .footnote-ref {
+    font-size: 0.8rem;
   }
 
   .imgcap {

@@ -61,7 +61,7 @@ module.exports = function (eleventyConfig) {
         language: "en",
         title: "A Very Good Blog by Keenan",
         subtitle: "This is a very good blog I made all by myself.",
-        base: "https://gkeenan.co/",
+        base: "https://gkeenan.co/avgb",
         author: {
             name: "Keenan",
             email: "keenan@gkeenan.co", // Optional
@@ -80,7 +80,7 @@ module.exports = function (eleventyConfig) {
         language: "en",
         title: "A Very Good Blog by Keenan",
         subtitle: "This is a very good blog I made all by myself.",
-        base: "https://gkeenan.co/",
+        base: "https://gkeenan.co/avgb",
         author: {
             name: "Keenan",
             email: "keenan@gkeenan.co", // Optional

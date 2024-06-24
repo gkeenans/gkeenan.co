@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/fonts");
     eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addPassthroughCopy("./src/css/js");
+    eleventyConfig.addPassthroughCopy("./_redirects");
 
   // Posts collections
   eleventyConfig.addCollection("posts", function (collection) {

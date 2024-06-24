@@ -6,3 +6,10 @@
 
   # Default build command.
   command = "npm run build"
+
+[[redirects]]
+  from = "/avgb/?format=rss"
+  to = "/avgb/feed.xml"
+  status = 301
+  force = false
+  query = {path = ":?format=rss"}

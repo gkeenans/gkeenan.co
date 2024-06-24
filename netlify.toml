@@ -8,11 +8,6 @@
   command = "npm run build"
 
   [[redirects]]
-from = "/avgb"
-to = "/"
-status = 301
-
-[[redirects]]
-from = "/home"
-to = "/"
+from = "/avgb/?format=rss"
+to = "/avgb/feed.xml"
 status = 301

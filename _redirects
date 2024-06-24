@@ -1,2 +1,1 @@
-/avgb/ format=rss  /avgb/feed.xml  301
-/blog  /avgb/feed.xml
+/avgb format=:format  /avgb/feed.xml  301

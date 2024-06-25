@@ -267,6 +267,18 @@
 
   .metadate {
     margin-bottom: 5rem;
+    font-style:italic;
+    font-family:var(--font-italic);
+    font-weight: 600;
+    font-size: 1rem;
+  }
+
+  .postlist-meta {
+    margin-bottom: 5rem;
+    font-style:italic;
+    font-family:var(--font-italic);
+    font-weight: 600;
+    font-size: 1rem;
   }
 
   .footnotes {
@@ -396,6 +408,22 @@
 
     .imgcap {
       font-size: 0.8rem;
+    }
+
+    .postlist-meta {
+      margin-bottom: 5rem;
+      font-style:italic;
+      font-family:var(--font-italic);
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+
+    .metadate {
+      margin-bottom: 5rem;
+      font-style:italic;
+      font-family:var(--font-italic);
+      font-weight: 600;
+      font-size: 0.9rem;
     }
 
   }

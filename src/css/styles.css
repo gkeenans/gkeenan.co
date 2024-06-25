@@ -35,19 +35,19 @@
 
   @font-face {
     font-family:"TT2020";
-    src: url("/css/fonts/TT2020Base-Regular.woff2");
+    src: url("/css/fonts/TT2020Base-Regular.woff2") format("woff2");
     font-style:normal;
     font-display:block
   }
   @font-face {
     font-family:"TT2020";
-    src: url("/css/fonts/TT2020Base-Italic.woff2");
+    src: url("/css/fonts/TT2020Base-Italic.woff2") format("woff2");
     font-style:italic;
     font-display:block
   }
   @font-face {
     font-family:"TT2020";
-    src: url("/css/fonts/TT2020StyleE-Italic.woff2");
+    src: url("/css/fonts/TT2020StyleE-Italic.woff2") format("woff2");
     font-weight:600;
     font-style:italic;
     font-display:block

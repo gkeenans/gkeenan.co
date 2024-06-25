@@ -1,0 +1,3 @@
+ <link rel="preload" as="font" href="/css/fonts/TT2020Base-Regular.woff2">
+    <link rel="preload" as="font" href="/css/fonts/TT2020Base-Italic.woff2">
+    <link rel="preload" as="font" href="/css/fonts/TT2020StyleE-Italic.woff2">

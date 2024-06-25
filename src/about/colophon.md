@@ -1,6 +1,7 @@
 ---
 title: Colophon
 layout: base.njk
+permalink: "/about/colophon/index.html"
 ---
 
 ## Now that I'm not using Squarespace, I feel like I deserve one of them fancy Colophon pages.

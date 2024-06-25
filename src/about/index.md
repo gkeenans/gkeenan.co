@@ -5,7 +5,17 @@ layout: base.njk
 
 ## Non-binary jack of all trades.
 
-I’m on a journey to heal my inner-creative.
+<nav class="subnav">
+    <ul>
+        <li><a href="/about/colophon">Colophon</a></li>
+        <li><b>|</b></li>
+        <li><a href="/about/contact">Contact</a></li>
+    </ul>
+</nav>
+
+<hr>
+<br>
+<h3>I’m on a journey to heal my inner-creative.</h3>
 
 That sounds dramatic, I know. Bear with me.
 

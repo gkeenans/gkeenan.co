@@ -178,6 +178,22 @@
     display: block;
     text-align: center;
   }
+
+  .subnav {
+    display: flex;
+    justify-content: center;
+    margin-top: -5rem;
+    margin-bottom: 1rem;
+  }
+
+  .subnav ul {
+    padding-left: 0px;
+  }
+
+  .subnav li{
+    display: inline;
+    list-style: none;
+  }
   
   /* Format navigation */
 

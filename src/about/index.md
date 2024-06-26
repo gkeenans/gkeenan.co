@@ -3,7 +3,7 @@ title: About
 layout: base.njk
 ---
 
-## Non-binary jack of all trades.
+## Non-binary jack-of-all-trades.
 
 <nav class="subnav">
     <ul>

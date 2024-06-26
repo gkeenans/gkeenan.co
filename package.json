@@ -16,5 +16,9 @@
     "lodash": "^4.17.21",
     "luxon": "^3.4.4",
     "markdown-it-footnote": "^4.0.0"
+  },
+  "devDependencies": {
+    "lodash.escape": "^4.0.1",
+    "rfc822-date": "^0.0.3"
   }
 }

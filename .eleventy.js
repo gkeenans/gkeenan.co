@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon")
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 
+
   // Markdown Footnotes stuff
 module.exports = function (eleventyConfig) {
   let markdownIt = require("markdown-it");
@@ -88,6 +89,39 @@ module.exports = function (eleventyConfig) {
         }
     }
 });
+
+// Podcast feed stuff
+const escape = require('lodash.escape');
+const rfc822Date = require('rfc822-date');
+
+module.exports = (eleventyConfig) => {
+    // RSS
+    eleventyConfig.addLiquidFilter('rfc822Date', (dateValue) => {
+        return rfc822Date(dateValue);
+    });
+
+    // Escape characters for XML feed
+    eleventyConfig.addLiquidFilter('xmlEscape', (value) => {
+        return escape(value);
+    });
+
+    // Newest date in the collection
+    eleventyConfig.addFilter('collectionLastUpdatedDate', (collection) => {
+        if (!collection || !collection.length) {
+            throw new Error(
+                'Collection is empty in collectionLastUpdatedDate filter.'
+            );
+        }
+
+        return rfc822Date(
+            new Date(
+                Math.max(...collection.map((item) => {
+                    return item.date;
+                }))
+            )
+        );
+    });
+  };
 
 return {
   passthroughFileCopy: true,

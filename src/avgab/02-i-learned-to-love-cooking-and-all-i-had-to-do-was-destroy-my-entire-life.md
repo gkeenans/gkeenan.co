@@ -23,7 +23,7 @@ media:
     fileSize: '66584576'
 
     # A per-episode description if you want it
-    description: 'Read this original post in its entirety (including copious footnotes for that little extra special seasoning) at this link: https://gkeenan.co/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life<br><br>
+    description: 'Read this original post in its entirety (including copious footnotes for that little extra special seasoning) at this link: [https://gkeenan.co/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life](https://gkeenan.co/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life)<br><br>
 
 A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 

@@ -87,9 +87,7 @@ sitemap:
             <itunes:summary>{{ podcastEpisode.data.media.summary }}</itunes:summary>
         {% endif %}
 
-        {% if podcastEpisode.data.media.explicit %}
-            <itunes:explicit>{{ podcastEpisode.data.media.explicit }}</itunes:explicit>
-        {% endif %}
+        
         
       </item>
     {%- endfor -%}

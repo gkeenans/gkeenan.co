@@ -23,12 +23,15 @@ media:
     fileSize: '15938355.2'
 
     # A per-episode description if you want it
-    description: 'Read this original post in its entirety (including all of the hilarious and excellent footnotes) at this link: https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die
+    description: 'Read this original post in its entirety (including all of the hilarious and excellent footnotes) at this link: https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die<br><br>
     
     A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added summary
     summary: Please don't listen to this with the trim silence feature enabled.
+
+    # Keenan added original blog link:
+    link: 
 
 # Additional layout data here...
 ---

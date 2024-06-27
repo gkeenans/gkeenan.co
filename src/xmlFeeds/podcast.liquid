@@ -15,7 +15,7 @@ sitemap:
     <generator>Eleventy</generator>
     <description>{{podcast.description | xmlEscape}}</description>
     <itunes:author>{{podcast.author}} </itunes:author>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="{{podcast.channelImage | prepend: site.url}}" />
     <itunes:owner>

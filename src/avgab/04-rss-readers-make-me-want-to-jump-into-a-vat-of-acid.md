@@ -23,9 +23,9 @@ media:
     fileSize: '15833497.6'
 
     # A per-episode description if you want it
-    description: 'Read this original post in its entirety at this link: https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid
+    description: 'Read this original post in its entirety at this link: https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid<br><br>
 
-You won’t regret it. The footnotes are fun.
+You won’t regret it. The footnotes are fun.<br><br>
 
 A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 

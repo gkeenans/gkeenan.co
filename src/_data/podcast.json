@@ -12,7 +12,7 @@
             }            
         ],
     "author": "Keenan",
-    "channelImage": "assets/img/podcasts/avgab.png",
+    "channelImage": "/assets/img/podcasts/avgab.png",
     "owner": {
       "name": "Keenan",
       "email": "keenan@gkeenan.co"

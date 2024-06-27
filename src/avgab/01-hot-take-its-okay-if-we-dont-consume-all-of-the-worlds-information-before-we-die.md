@@ -23,7 +23,7 @@ media:
     fileSize: '15938355.2'
 
     # A per-episode description if you want it
-    description: 'Read this original post in its entirety (including all of the hilarious and excellent footnotes) at this link: <a href="https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die>https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die</a><br><br>
+    description: 'Read this original post in its entirety (including all of the hilarious and excellent footnotes) at this link: <a href="https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die">https://gkeenan.co/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die</a><br><br>
     
     A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 

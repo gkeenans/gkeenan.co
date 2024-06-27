@@ -10,7 +10,7 @@ sitemap:
     <title>{{podcast.title | xmlEscape}}</title>
     <link>{{site.url}}</link>
     <language>en-us</language>
-    <copyright>&#169; 2005 - {{"now" | date: "%Y"}} {{podcast.author}}</copyright>
+    <copyright>&#169; {{"now" | date: "%Y"}} {{podcast.author}}</copyright>
     <lastBuildDate>{{collections.podcast | collectionLastUpdatedDate}}</lastBuildDate>
     <generator>Eleventy</generator>
     <description>{{podcast.description | xmlEscape}}</description>
@@ -32,7 +32,7 @@ sitemap:
     
     {%- for podcastEpisode in collections.podcast reversed -%}
       <item>
-        <pubDate>{{ podcastEpisode.date | rfc822Date }}</pubDate>
+        <pubDate>{{ podcastEpisode.data.media.date | rfc822Date }}</pubDate>
         <link>{{ podcastEpisode.data.media.link | prepend: site.url }}</link>
 
         {% if podcastEpisode.data.media.guid %}
@@ -85,6 +85,10 @@ sitemap:
 
         {% if podcastEpisode.data.media.summary %}
             <itunes:summary>{{ podcastEpisode.data.media.summary }}</itunes:summary>
+        {% endif %}
+
+        {% if podcastEpisode.data.media.explicit %}
+            <itunes:explicit>{{ podcastEpisode.data.media.explicit }}</itunes:explicit>
         {% endif %}
         
       </item>

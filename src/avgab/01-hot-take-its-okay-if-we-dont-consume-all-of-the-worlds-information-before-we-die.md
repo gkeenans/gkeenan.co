@@ -4,7 +4,7 @@ media:
     title: 'Hot take: It’s okay if we don’t consume all of the world’s information before we die'
 
     # Keenan added date
-    date: 2023-11-15
+    date: 2023-11-15T13:58:00
 
     # The episode number
     episode: 01
@@ -32,6 +32,9 @@ media:
 
     # Keenan added original blog link:
     link: '/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die'
+
+    # Keenan added explicit tag:
+    explicit: 'true'
 
 # Additional layout data here...
 ---

@@ -4,7 +4,7 @@ media:
     title: 'I learned to love cooking, and all I had to do was destroy my entire life'
     
     # Keenan added date
-    date: 2023-12-21
+    date: 2023-12-21T13:58:00
     
     # The episode number
     episode: 02
@@ -32,6 +32,9 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added original blog link:
     link: '/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life'
+
+    # Keenan added explicit tag:
+    explicit: 'true'
 
 # Additional layout data here...
 ---

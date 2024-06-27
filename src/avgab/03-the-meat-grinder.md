@@ -4,7 +4,7 @@ media:
     title: 'The Meat Grinder'
     
     # Keenan added date
-    date: 2024-04-19
+    date: 2024-04-19T14:31:00
 
     # The episode number
     episode: 03
@@ -32,6 +32,9 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added original blog link:
     link: '/avgb/the-meat-grinder'
+
+    # Keenan added explicit tag:
+    explicit: 'true'
 
 # Additional layout data here...
 ---

@@ -4,7 +4,7 @@ media:
     title: 'RSS readers make me want to jump into a vat of acid!'
     
     # Keenan added date
-    date: 2024-04-19
+    date: 2024-04-19T16:21:00
 
     # The episode number
     episode: 04
@@ -34,6 +34,9 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added original blog link:
     link: '/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid'
+
+    # Keenan added explicit tag:
+    explicit: 'true'
 
 # Additional layout data here...
 ---

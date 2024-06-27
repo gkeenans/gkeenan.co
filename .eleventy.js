@@ -1,5 +1,7 @@
 const { DateTime } = require("luxon")
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
+const escape = require('lodash.escape');
+const rfc822Date = require('rfc822-date');
 
 
   // Markdown Footnotes stuff
@@ -69,7 +71,7 @@ module.exports = function (eleventyConfig) {
             email: "keenan@gkeenan.co", // Optional
         }
     }
-});
+  });
 
   eleventyConfig.addPlugin(feedPlugin, {
     type: "json", // or "rss", "json"
@@ -88,13 +90,10 @@ module.exports = function (eleventyConfig) {
             email: "keenan@gkeenan.co", // Optional
         }
     }
-});
+  });
 
 // Podcast feed stuff
-const escape = require('lodash.escape');
-const rfc822Date = require('rfc822-date');
 
-module.exports = (eleventyConfig) => {
     // RSS
     eleventyConfig.addLiquidFilter('rfc822Date', (dateValue) => {
         return rfc822Date(dateValue);
@@ -121,7 +120,6 @@ module.exports = (eleventyConfig) => {
             )
         );
     });
-  };
 
 return {
   passthroughFileCopy: true,

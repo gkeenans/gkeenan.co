@@ -1,0 +1,25 @@
+{
+    "title": "A Very Good Audio Blog",
+    "description": "A Very Good Blog, now in podcast form! Each episode is an audio companion to a piece from Keenan’s blog, read by the author, me (Keenan).",
+    "categories": [
+            {
+                "category": "Society & Culture",
+                "subcategory": "Personal Journals"
+            },
+            {
+                "category": "Arts",
+                "subcategory": "Performing Arts"
+            }            
+        ],
+    "author": "Keenan",
+    "channelImage": "assets/img/podcasts/avgab.png",
+    "owner": {
+      "name": "Keenan",
+      "email": "keenan@gkeenan.co"
+    },
+    "feedPath": "/avgab/feed.xml",
+    "episode": {
+      "defaultDescription": "I'm back in your podcast app, reading my blog."
+    }
+  }
+

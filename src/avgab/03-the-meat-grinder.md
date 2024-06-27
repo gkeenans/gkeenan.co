@@ -30,6 +30,9 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
     # Keenan added summary
     summary: In which I learn that corporations are not to be loved.
 
+    # Keenan added original blog link:
+    link: '/avgb/the-meat-grinder'
+
 # Additional layout data here...
 ---
 

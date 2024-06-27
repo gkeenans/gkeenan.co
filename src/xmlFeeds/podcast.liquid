@@ -33,12 +33,12 @@ sitemap:
     {%- for podcastEpisode in collections.podcast reversed -%}
       <item>
         <pubDate>{{ podcastEpisode.date | rfc822Date }}</pubDate>
-        <link>{{ podcastEpisode.url | prepend: site.url }}</link>
+        <link>{{ podcastEpisode.data.media.link | prepend: site.url }}</link>
 
         {% if podcastEpisode.data.media.guid %}
           <guid>{{ podcastEpisode.data.media.guid }}</guid>
         {% else %}
-          <guid>{{ podcastEpisode.url | prepend: site.url }}</guid>
+          <guid>{{ podcastEpisode.data.media.link | prepend: site.url }}</guid>
         {% endif %}
 
         {% if podcastEpisode.data.media.title %}

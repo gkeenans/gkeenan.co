@@ -31,7 +31,7 @@ media:
     summary: Please don't listen to this with the trim silence feature enabled.
 
     # Keenan added original blog link:
-    link: 
+    link: '/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die'
 
 # Additional layout data here...
 ---

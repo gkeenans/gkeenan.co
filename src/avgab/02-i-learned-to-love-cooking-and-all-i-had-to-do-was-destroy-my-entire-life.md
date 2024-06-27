@@ -30,5 +30,8 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
     # Keenan added summary
     summary: Maybe this isn't really about cooking after all.
 
+    # Keenan added original blog link:
+    link: '/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life'
+
 # Additional layout data here...
 ---

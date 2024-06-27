@@ -32,5 +32,8 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
     # Keenan added summary
     summary: I wrote this because I am extremely normal.
 
+    # Keenan added original blog link:
+    link: '/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid'
+
 # Additional layout data here...
 ---

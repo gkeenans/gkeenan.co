@@ -1,4 +1,4 @@
-const CANONICAL_URL = 'sprightly-mermaid-c6bdda.netlify.app';
+const CANONICAL_URL = 'https://sprightly-mermaid-c6bdda.netlify.app';
 const isDevelopmentBuild = process.env.ELEVENTY_ENV === 'dev';
 const isNetlifyProductionDeployment = process.env.CONTEXT === 'production';
 

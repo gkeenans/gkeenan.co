@@ -34,7 +34,7 @@ media:
     link: '/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die'
 
     # Keenan added explicit tag:
-    explicit: 'true'
+    explicit: 'yes'
 
 # Additional layout data here...
 ---

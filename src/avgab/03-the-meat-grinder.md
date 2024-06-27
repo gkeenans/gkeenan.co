@@ -34,7 +34,7 @@ A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
     link: '/avgb/the-meat-grinder'
 
     # Keenan added explicit tag:
-    explicit: 'true'
+    explicit: 'yes'
 
 # Additional layout data here...
 ---

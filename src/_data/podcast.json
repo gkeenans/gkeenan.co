@@ -1,7 +1,7 @@
 {
     "title": "A Very Good Audio Blog",
     "description": "A Very Good Blog, now in podcast form! Each episode is an audio companion to a piece from Keenan’s blog, read by the author, me (Keenan).",
-    "categories": [
+    "category": [
             {
                 "category": "Society & Culture",
                 "subcategory": "Personal Journals"

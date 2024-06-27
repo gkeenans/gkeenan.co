@@ -92,6 +92,10 @@ module.exports = function (eleventyConfig) {
     }
   });
 
+  eleventyConfig.setLiquidOptions({
+    dynamicPartials: false,
+  });
+
 // Podcast feed stuff
 
     // RSS

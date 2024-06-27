@@ -22,7 +22,12 @@ sitemap:
       <itunes:name>{{podcast.owner.name}}</itunes:name>
       <itunes:email>{{podcast.owner.email}}</itunes:email>
     </itunes:owner>
-    <itunes:category text="{{podcast.categories}}" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
     <itunes:new-feed-url>{{site.url}}{{podcast.feedPath}}</itunes:new-feed-url>
     
     {%- for podcastEpisode in collections.podcast reversed -%}
@@ -76,7 +81,12 @@ sitemap:
 
         {% if podcastEpisode.data.media.duration %}
             <itunes:duration>{{podcastEpisode.data.media.duration}}</itunes:duration>
-        {% endif %}        
+        {% endif %}       
+
+        {% if podcastEpisode.data.media.summary %}
+            <itunes:summary>{{ podcastEpisode.data.media.summary }}</itunes:summary>
+        {% endif %}
+        
       </item>
     {%- endfor -%}
   </channel>

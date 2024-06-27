@@ -14,7 +14,7 @@ media:
     image:
 
     # Your MP3 file 
-    content: 'https://static1.squarespace.com/static/63051f9501ab15283a42d6e9/t/659751f00cc9e52c6102feb0/1704415742569/AVGAB+ep+1+trim+silence.mp3'
+    content: 'https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%201%20trim%20silence.mp3'
 
     # The duration of the episode in seconds
     duration: '500'

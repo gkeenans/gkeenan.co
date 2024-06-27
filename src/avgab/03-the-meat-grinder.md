@@ -14,7 +14,7 @@ media:
     image:
 
     # Your MP3 file 
-    content: 'https://static1.squarespace.com/static/63051f9501ab15283a42d6e9/t/6622b7ba138fb17c218f2f16/1713551320394/AVGAB+ep+3+the+meat+grinder.mp3'
+    content: 'https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%203%20the%20meat%20grinder.mp3'
 
     # The duration of the episode in seconds
     duration: '1078'

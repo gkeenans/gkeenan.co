@@ -14,7 +14,7 @@ media:
     image:
 
     # Your MP3 file 
-    content: 'https://static1.squarespace.com/static/63051f9501ab15283a42d6e9/t/6598326d5efb6f51249346c3/1704473250227/AVGAB%2Bep%2B2%2Bi%2Blearned%2Bto%2Blove%2Bcooking.mp3'
+    content: 'https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%202%20i%20learned%20to%20love%20cooking.mp3'
 
     # The duration of the episode in seconds
     duration: '2082'

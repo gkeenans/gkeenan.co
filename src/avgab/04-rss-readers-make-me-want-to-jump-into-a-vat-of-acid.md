@@ -14,7 +14,7 @@ media:
     image:
 
     # Your MP3 file 
-    content: 'https://static1.squarespace.com/static/63051f9501ab15283a42d6e9/t/6622d16f777e0558cb2d4737/1713557886048/AVGAB+ep+4+rss+readers.mp3'
+    content: 'https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%204%20rss%20readers.mp3'
 
     # The duration of the episode in seconds
     duration: '494'

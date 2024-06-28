@@ -121,8 +121,8 @@
   }
 
   ul a {
-    text-decoration: underline;
-    color: var(--text)
+    text-decoration: none;
+    color: var(--accent)
   }
 
   ul a:hover {

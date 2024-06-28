@@ -28,6 +28,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addPassthroughCopy("./src/css/js");
     eleventyConfig.addPassthroughCopy("./_redirects");
+    eleventyConfig.addPassthroughCopy("./robots.txt");
 
   // Posts collections
   eleventyConfig.addCollection("posts", function (collection) {

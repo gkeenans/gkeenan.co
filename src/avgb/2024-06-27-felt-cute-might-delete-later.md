@@ -1,5 +1,5 @@
 ---
-permalink: "/avgb/felt-cute-might-delete-later"
+permalink: "/avgb/felt-cute-might-delete-later/index.html"
 title: "Felt cute, might delete later"
 date: 2024-06-27T23:57:00
 ---

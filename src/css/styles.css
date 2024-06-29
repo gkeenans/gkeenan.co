@@ -159,7 +159,7 @@
     border: solid 2px var(--accent);
     background-color: var(--bg);
     border-radius: 10px;
-    max-width: 90%;
+    max-width: 80%;
     margin: 2rem auto 2rem auto;
     padding: 1rem 1rem 1rem 1rem;
     text-align: center;

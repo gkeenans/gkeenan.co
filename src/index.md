@@ -9,7 +9,9 @@ I'm a visual and verbal artist based near Louisville. I used to work in corporat
 
 Now I'm focusing on creating.
 
-I long for variety, so I make art in a number of mediums depending on how I can express myself most effectively. [Photography][1], [voice acting][2], [podcasting][3], [web design][4], even the occassional [video essay][5]! 
+I long for variety, so I make art in a number of mediums depending on how I feel I can express myself most effectively. 
+
+[Photography][1], [voice acting][2], [podcasting][3], [web design][4], even the occassional [video essay][5]! 
 
 Lately, though, I've rediscovered my love for writing, so I decided to rebuild this site to focus mainly on that.
 

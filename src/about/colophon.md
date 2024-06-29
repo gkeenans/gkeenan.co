@@ -17,3 +17,5 @@ I built it using HTML and CSS. There's a .js config file in the directory. Does 
 Some of the pages were written in Markdown. Some were written in HTML. There's no rhyme or reason, it was mostly just based on how I was feeling in that moment.[^1]
 
 [^1]: This one is written in Markdown, and this footnote is generated using the [*SUPER FANCY PLUGIN*](https://www.npmjs.com/package/markdown-it-footnote) I figured out how to install and configure all by myself! This is exciting because I am a moron.
+
+Oh, also the font is [TT2020](https://copypaste.wtf/TT2020/docs/). People keep mentioning it. I love it, too.

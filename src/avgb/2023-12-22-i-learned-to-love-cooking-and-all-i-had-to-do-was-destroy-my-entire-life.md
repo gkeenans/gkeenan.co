@@ -9,7 +9,7 @@ date: 2023-12-22T03:50:00.000Z
 **Listen along with the audioblog:**
 
 <audio controls>
-    <source src="/assets/audio/AVGAB ep 2 i learned to love cooking.mp3" type="audio/mpeg">
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%202%20i%20learned%20to%20love%20cooking.mp3" type="audio/mpeg">
 </audio>
 
 **_Disclaimer: This piece contains brief descriptions of child abuse._**

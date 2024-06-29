@@ -7,7 +7,7 @@ date: 2023-11-15T23:57:32.000Z
 **Listen along with the audioblog:**
 
 <audio controls>
-    <source src="/assets/audio/AVGAB ep 1 trim silence.mp3" type="audio/mpeg">
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%201%20trim%20silence.mp3" type="audio/mpeg">
 </audio>
 
 ---

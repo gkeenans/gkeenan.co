@@ -9,7 +9,7 @@ date: 2024-02-02T21:04:39.000Z
 **Listen along with the audioblog:**
 
 <audio controls>
-    <source src="/assets/audio/AVGAB ep 4 rss readers.mp3" type="audio/mpeg">
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%204%20rss%20readers.mp3" type="audio/mpeg">
 </audio>
 
 * * *

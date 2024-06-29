@@ -9,7 +9,7 @@ date: 2024-04-09T22:30:36.000Z
 **Listen along with the audioblog:**
 
 <audio controls>
-    <source src="/assets/audio/AVGAB ep 3 the meat grinder.mp3" type="audio/mpeg">
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%203%20the%20meat%20grinder.mp3" type="audio/mpeg">
 </audio>
 
 * * *

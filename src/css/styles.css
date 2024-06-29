@@ -90,13 +90,13 @@
   body > header h1 {
     max-width: 100%;
     margin: 5rem auto;
-    text-decoration: none !important;
+    text-decoration: none;
     color: var(--text-light);
   }
 
   #keename a{
     color: var(--text-light);
-    text-decoration: none !important;
+    text-decoration: none;
     transition: color .25s;
     position: static;
     max-width: fit-content;
@@ -384,7 +384,7 @@
   
   @media only screen and (max-width: 720px) {
     #keename {
-      font-size: 2.8rem !important;
+      font-size: 2.8rem;
     }
 
     #navprime {
@@ -392,7 +392,7 @@
       margin-top: -5rem;
       font-size: 1rem;
       display: flex;
-      flex-direction: column !important;
+      flex-direction: column;
     }
     
     h1 {

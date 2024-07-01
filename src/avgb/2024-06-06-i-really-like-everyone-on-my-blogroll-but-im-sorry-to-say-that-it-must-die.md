@@ -70,6 +70,6 @@ It's not worth being paralyzed by inside thoughts.
 So it's time to die.[^3]
 
 
-[^1]: Look forward to my new site and blog post detailing the process once my CodeAcademy certificate arrives in the mail.
+[^1]: Look forward to my new site and blog post detailing the process once my Codecademy certificate arrives in the mail.
 [^2]: Or at the very least saved for a blog post!
 [^3]: The blogroll, I mean. That was obvious, right?

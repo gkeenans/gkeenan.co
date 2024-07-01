@@ -4,14 +4,6 @@ title: "I’m turning off my website analytics because I’m very brave and I pr
 date: 2024-01-09T22:56:52.000Z
 ---
 
-*Update — 07.01.2024: Contradicting everything I wrote in the post below back in January, I've decided to try an experiment with **Simple Analytics**, a cookieless and privacy-focused analytics platform. I've also decided to make the site's analytics [public](https://dashboard.simpleanalytics.com/gkeenan.co). Additionally, I have a [referral link](https://www.simpleanalytics.com/?referral=faqus), should you want to sign up and give me a little kickback for any paid subscription. I'll leave that referral link up for as long as I'm using this platform, but no longer.*
-
-*Why did I do this? I think it's fair to question my resolve, considering how adamant I was in the original post. I do firmly believe that I am not as beholden to the sheer number of visitors as I once was. But, truth be told, the analytics were often a lovely source of discovery for me. I've found a number of wonderful websites that I otherwise might not have seen had they not sent someone my way. I have not yet run into the issue Rach Smith describes in [her post](https://rachsmith.com/i-turned-off-analytics/). If and when these stats start to feel like noise again, I'll drop them.*
-
-*Anyway, I have left the original post unchanged below. Feel free to shake your head in disappoint as you witness my folly, my sheer hypocrisy, my inherent weakness as a human being, playing out in real-time—real-time, like how you can view my analytics on the public dashboard I linked above!*
-
-<hr>
-
 I find myself idly thumbing at my phone, swiping down, watching the little spinner do its thing, hoping a number goes up once the screen refreshes.
 
 Why do I do this to myself?

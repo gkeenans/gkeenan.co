@@ -40,7 +40,7 @@
   @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0c0013;
-    --accent-bg: #0a010f;
+    --accent-bg: #260a35;
     --text: #c8a3dd;
     --text-light: #8e55af;
     --border: #795e8a;
@@ -282,6 +282,13 @@
     font-size: 1rem;
   }
 
+  code {
+    font-size: 1rem;
+    background-color: var(--accent-bg);
+    border: 2px solid var(--accent-bg);
+    border-radius: 3px;
+  }
+  
   .metadate {
     margin-bottom: 5rem;
     font-style:italic;

@@ -327,6 +327,15 @@
     border: 1px solid var(--border);
   }
 
+  ol a{
+    text-decoration: underline;
+    color: var(--text);
+  }
+
+  ol a:hover{
+    color: var(--accent)
+  }
+
   /* Images!!! */
 
   img {
@@ -343,6 +352,12 @@
     padding-bottom: 1rem;
     aspect-ratio: 16 /9 ;
     width: 100%;
+  }
+
+  iframe.mastodon-embed {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem 0 1rem 0;
   }
 
   audio {

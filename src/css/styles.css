@@ -441,6 +441,10 @@
       font-size: 1.1rem;
     }
 
+    code {
+      font-size: 0.9rem;
+    }
+
     .footnotes {
       font-size: 1rem;
     }
@@ -469,6 +473,10 @@
       font-size: 0.9rem;
     }
 
+    ul {
+      margin-left: -1rem;
+    }
+    
   }
   
   /* Format links (maybe? Am I even gonna use this???)*/

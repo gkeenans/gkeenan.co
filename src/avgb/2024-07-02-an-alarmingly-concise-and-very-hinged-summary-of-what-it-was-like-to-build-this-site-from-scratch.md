@@ -123,7 +123,7 @@ That, or it was a stupid typo. You know, `style.css` vs `styles.css`.
 
 Over the next few hours, I managed to build out a basic site with a couple of pages whose inner-workings I *actually understood*. I reached the end of the tutorial and felt comfortable enough that I could get to styling.
 
-I texted Robb to declare my victory, as he had been cheering me on throughout the process, even when I stumbled.
+I texted [Robb](https://social.lol/@robb) to declare my victory, as he had been cheering me on throughout the process, even when I stumbled.
 
 ![Conversation with Robb on June 18, 2024 at 7:43pm where I sent him a screenshot of my VS Code / Localhost split-screen setup up. Underneath, I say: "Started from scratch today, and I think I made some decent progress."](https://avgb.b-cdn.net/img/progress.jpeg)
 

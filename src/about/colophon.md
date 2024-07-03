@@ -20,4 +20,4 @@ Some of the pages were written in Markdown. Some were written in HTML. There's n
 
 Oh, also the font is [TT2020](https://copypaste.wtf/TT2020/docs/). People keep mentioning it. I love it, too.
 
-If you want to read a lot more about how I built this site and why, might I tempt you with this [4,600 word piece](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/#acknowledgements) on my blog?
+If you want to read a lot more about how I built this site and why, might I tempt you with this [4,600 word piece](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch) on my blog?

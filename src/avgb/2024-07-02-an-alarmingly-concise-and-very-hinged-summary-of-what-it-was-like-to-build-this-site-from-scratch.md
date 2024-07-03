@@ -13,8 +13,9 @@ date: 2024-07-02T17:45:00.000Z
 - [Acknowledgements](#acknowledgements)
 
 ***
+<br>
 
-### <a id="preramble"></a>Preramble 
+### <a id="preramble"></a>Preramble
 
 It was May 13, 2024 when the sky opened up and the gods deigned to bless us with a grand proclamation: a private equity firm was to swoop in and save Squarespace from the perils of public trading. What news! Private equity! My two favorite words right after frontal lobotomy! It was May 13, 2024 when I realized my time with Squarespace was through. After over a decade of building websites with them. Failed blogs and failed podcasts and failed businesses. Now, the failure of Capitalism made it clear that it was finally time to move on.
 
@@ -53,6 +54,7 @@ My buddy, Nate, [jumped into my replies](https://social.lol/@nfd/112440995435015
 I initially expressed some skepticism. After all, I didn't know fuck about shit when it comes to coding, aside from the disparate knowledge I picked up back in the Geocities days, honed slightly over the years by styling a Myspace page or after altering someone else's CSS to hack it into doing what I was hoping for on my numerous Squarespace blogs. I never really knew *why* something worked, just that, with some finagling, it eventually did. But coding my own thing from the ground up? I dunno. It seemed insurmountable. I'm 38, anxious, and stupid. Should probably just stay in my lane!
 
 But the prospect of independence—*true* independence. The prospect of ownership—*true* ownership. It gnawed at me.
+<br>
 
 ### <a id="this-is-what-learning-looks-like"></a>This is what learning looks like
 
@@ -81,6 +83,7 @@ To alleviate my frustration, I took a break to play video games and write about 
 But I am nothing if not a stubborn bitch, so I wrote it anyway. And once I did, the thought crossed my mind that maybe I should just stick with what I know. *Maybe I was too ambitious to assume I could do this. Maybe I should just let the Squarespace site renew. Maybe I'm not cut out to learn this stuff. Who knows, maybe the private equity thing won't be that bad.*
 
 The momentum of the Codecademy tutorials sent me careening straight into a wall wrought of ignorance and doubt compacted so densely that it shattered my entire spirit upon impact. The egregious mistake of not knowing everything within the first hours of learning. 
+<br>
 
 ### <a id="station-eleventy"></a>Station Eleventy
 
@@ -107,7 +110,7 @@ As I scoured the web for guides, I found a [tutorial](https://flamedfury.com/gui
 I opened up VS Code, trashed the previous directory for the Starter Blog, and began a new project.
 
 `npm install @11ty/eleventy`
-
+<br>
 ### <a id="now-were-cookin-with-flamed"></a>Now we're cookin' with flaMEd
 
 One of the things that immediately jumped out to me about flaMEd's tutorial, despite being out of date, as he claims, was how it walked step by step through creating a new Eleventy project from scratch. Rather than loading up the Starter Blog project, which was already full of configuration files, dependencies, and sample pages, flaMEd's approach was to detail every step in the codewriting process, explain what each step did and why. This helped build a ton of context for me as I pieced together `.html` and `.js` and `.json` files. I learned what partials were, how to structure them, and where they fit into layout files. I could see as I wrote the code how things were supposed to interoperate, because I was piecing it all together as I went along, rather than trying to untangle a web of pre-built code.
@@ -144,7 +147,7 @@ I experienced a number of triumphant moments as I built out the site for the nex
 - Oh, duh, also, I had never used Github before! So as the site was really shaping up, I started a Github account and learend how to make my first commit (and then I would go on to make 103 more leading up to launching), and *then* learned how to push that to Netlify automatically.
 
 I came away from this process with a much greater understanding of how Eleventy works, and how all these different elements connect to make a website function. I'm clearly not an expert, and I can't say with certainty, if I were to start it all over again, that I wouldn't make a lot of the same mistakes or be confused about the same things.[^7] What I am far more confident about now, though, is that I am capable of figuring it out.
-
+<br>
 ### <a id="finding-my-voice"></a>Finding my voice
 
 Something I haven't yet touched on is the broader philosophical question behind this website. If I'm going to go through the trouble of rebuilding it, make it exactly what I want. What, exactly, do I want it to be?
@@ -170,6 +173,8 @@ So now I have this space I built for me. A place I can feel proud of because I m
 A place for my voice to shine through. A real home.
 
 ***
+
+<br>
 
 ### <a id="acknowledgements"></a>Acknowledgements
 

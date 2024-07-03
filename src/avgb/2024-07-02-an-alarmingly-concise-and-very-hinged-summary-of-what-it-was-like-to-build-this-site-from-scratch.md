@@ -48,7 +48,7 @@ So it was May 14 when I put my intention out into the world:
 
 <iframe src="https://social.lol/@keenan/112440753736783147/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://social.lol/embed.js" async="async"></script>
 
-My buddy, Nate, jumped into my replies to tell me about their experience with Eleventy, and how coding a site by hand rejuvenated their own love for tinkering. 
+My buddy, Nate, [jumped into my replies](https://social.lol/@nfd/112440995435015526) to tell me about their experience with Eleventy, and how coding a site by hand rejuvenated their own love for tinkering. 
 
 I initially expressed some skepticism. After all, I didn't know fuck about shit when it comes to coding, aside from the disparate knowledge I picked up back in the Geocities days, honed slightly over the years by styling a Myspace page or after altering someone else's CSS to hack it into doing what I was hoping for on my numerous Squarespace blogs. I never really knew *why* something worked, just that, with some finagling, it eventually did. But coding my own thing from the ground up? I dunno. It seemed insurmountable. I'm 38, anxious, and stupid. Should probably just stay in my lane!
 

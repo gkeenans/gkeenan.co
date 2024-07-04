@@ -112,21 +112,13 @@
   }
 
   body a {
-    text-decoration: none;
-    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: .25ex;
+    color: var(--text);
   }
 
   body a:hover {
-    text-decoration: underline;
-  }
-
-  ul a {
-    text-decoration: underline;
-    color: var(--text)
-  }
-
-  ul a:hover {
-    color: var(--accent);
+    color: var(--accent)
   }
 
   .bloglist {
@@ -146,7 +138,7 @@
   }
 
   blockquote {
-    border-left: 2px solid var(--text);
+    border-left: 2px solid var(--accent);
     padding-left: 1.5rem;
     margin-left: 2rem;
   }
@@ -319,8 +311,28 @@
     font-size: 1rem;
   }
 
-  .footnote-ref {
+  .footnote-ref a{
     font-size: 0.8rem;
+    text-decoration: none;
+    color: var(--accent);
+  }
+
+  .footnote-ref a:hover{
+    text-decoration: underline;
+  }
+
+  .footnotes em{
+    font-size: 0.9rem;
+  }
+
+  a.footnote-backref {
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: var(--accent);
+  }
+
+  a.footnote-backref:hover{
+    text-decoration: underline;
   }
 
   .imgcap {
@@ -335,15 +347,6 @@
 
   hr {
     border: 1px solid var(--border);
-  }
-
-  ol a{
-    text-decoration: underline;
-    color: var(--text);
-  }
-
-  ol a:hover{
-    color: var(--accent)
   }
 
   /* Images!!! */

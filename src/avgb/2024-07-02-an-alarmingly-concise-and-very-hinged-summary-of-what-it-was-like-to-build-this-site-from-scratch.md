@@ -127,7 +127,7 @@ I texted [Robb](https://social.lol/@robb) to declare my victory, as he had been 
 
 ![Conversation with Robb on June 18, 2024 at 7:43pm where I sent him a screenshot of my VS Code / Localhost split-screen setup up. Underneath, I say: "Started from scratch today, and I think I made some decent progress."](https://avgb.b-cdn.net/img/progress.jpeg)
 
-I stayed up late that night. *Too late*, some might say. But I was <i>cookin'</i>. I went to sleep for a bit and shot awake excited to get back to my computer. My new hyperfixation awaited. I couldn't remember the last time I felt legitimately giddy to sit at my desk.
+I stayed up late that night. *Too late*, some might say. But I was *cookin'*. I went to sleep for a bit and shot awake excited to get back to my computer. My new hyperfixation awaited. I couldn't remember the last time I felt legitimately giddy to sit at my desk.
 
 That second day was when I hit my first series of obstacles. A couple weird CSS things that I eventually ironed out—I don't remember what they were—and then, over the course of literally five hours, I tried to figure out how to install my first plugin for the site. I write in Markdown, and I love me some footnotes, so it only made sense that I get [markdown-it footnote](https://www.npmjs.com/package/markdown-it-footnote) working. Easier said than done, considering the documentation assumes you know a thing or two, and as I've previously established, I am a moron.
 

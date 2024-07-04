@@ -282,6 +282,11 @@
     font-size: 1rem;
   }
 
+  p em {
+    line-height: 1;
+    font-size: 1.2rem;
+  }
+
   code {
     font-size: 1rem;
     background-color: var(--accent-bg);
@@ -439,6 +444,10 @@
 
     body {
       font-size: 1.1rem;
+    }
+
+    p em {
+      font-size: 1.05rem;
     }
 
     code {

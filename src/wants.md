@@ -13,7 +13,7 @@ layout: base.njk
 
 I want to make my own fashion;
 
-I want to be brave enough to wear (something like) this;
+I want to be brave enough to wear (something like) [this](https://cdn.shopify.com/s/files/1/0453/4049/1929/t/15/assets/gender-neutral-to-use-1692358352266_600x.jpg);
 
 I want to write a book (the longest dream I’ve ever held);
 

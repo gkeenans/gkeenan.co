@@ -115,10 +115,12 @@
     text-decoration: underline;
     text-underline-offset: .25ex;
     color: var(--text);
+    transition: ease .15s;
   }
 
   body a:hover {
-    color: var(--accent)
+    color: var(--accent);
+    transition: ease .15s;
   }
 
   .bloglist {

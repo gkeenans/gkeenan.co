@@ -1,7 +1,7 @@
 ---
 permalink: "/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/index.html"
 title: An alarmingly concise and very hinged summary of what it was like to build this site from scratch
-date: 2024-07-02T17:45:00.000Z
+date: 2024-07-03T17:45:00.000Z
 ---
 
 **Table of Contents:**

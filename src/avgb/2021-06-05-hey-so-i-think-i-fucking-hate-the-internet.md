@@ -1,7 +1,7 @@
 ---
 permalink: "/avgb/hey-so-i-think-i-fucking-hate-the-internet/index.html"
 title: "Hey, so, I think I fucking hate the internet"
-date: 2021-06-05T00:44:00.000Z
+date: 2021-06-04T12:44:00.000Z
 ---
 
 **_Note: this post was originally published on June 4, 2021 on my previous blog, No Octothorpe. As part of an effort to preserve writing I’m particularly fond of, I am republishing it here._**

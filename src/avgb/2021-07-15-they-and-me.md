@@ -1,7 +1,14 @@
 ---
 permalink: "/avgb/they-and-me/index.html"
 title: "They and Me"
-date: 2021-07-15T00:40:00.000Z
+date: 2021-07-14T12:00:00.000Z
+---
+**Listen along with the audioblog:**
+
+<audio controls>
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%205%20they%20and%20me.mp3" type="audio/mpeg">
+</audio>
+
 ---
 
 **_Note: this post was originally published on July 14, 2021 on my previous blog, No Octothorpe. As part of an effort to preserve writing I’m particularly fond of, I am republishing it here._**
@@ -40,7 +47,7 @@ I struggled for a long time thinking about how I could explain my relationship t
 
 My wife, in her seemingly infinite, relentless wisdom, helped provide context for why I shouldn’t be so hard on myself. “There isn’t a finite bucket,” she said. “Your experience doesn’t trivialize the experience of another. Your experience is valid and how you identify is unique to you. It adds another shade to the spectrum. It doesn’t detract from the stories of others.”
 
-And so… I’m here. I’m me. Sharing a story. Mine. One that eschews any adherence to the black and white label that our ingrained lust for categorical shortcuts demand. Adding to a tapestry we’re collectively creating together by being who we deserve to be. Complicated. Unique. Beautiful.
+And so… I’m here. Sharing a story. Mine. One that eschews any adherence to the black and white label that our ingrained lust for categorical shortcuts demand. Adding to a tapestry we’re collectively creating together by being who we deserve to be. Complicated. Unique. Beautiful.
 
 I feel comfortable now, recognizing that I can fully explore who I am as I want to be. A freedom to be they. To be them.
 

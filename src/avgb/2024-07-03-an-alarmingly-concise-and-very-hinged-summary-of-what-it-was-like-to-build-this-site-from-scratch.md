@@ -27,7 +27,7 @@ RUN YOUR BUSINESS WITH SQUARESPACE.
 
 BURDEN YOURSELF WITH THE KNOWLEDGE THAT A VISITOR PUT ONE OF YOUR PHOTOS INTO THEIR CART BUT DIDN'T FUCKING BUY IT WITH SQUARESPACE.
 
-To scroll through their homepage is to be subjected to an SEOrgasm. An onslaught of big, bold headers, expertly designed to diddle your entrepreneurial spirit. *Designed to sell*. *Grow your business online*. *Tools to sell your time and expertise*. *Modern solutions for your brand*. *Schedule appointments, create courses and tutorials, invoice clients*. 
+To scroll through their homepage is to be subjected to an SEOrgasm. An onslaught of big, bold headers, expertly generated to diddle your entrepreneurial spirit. *Designed to sell*. *Grow your business online*. *Tools to sell your time and expertise*. *Modern solutions for your brand*. *Schedule appointments, create courses and tutorials, invoice clients*. 
 
 Truly, Squarespace is the everything platform for anyone whose definition of everything is *generating revenue*.
 

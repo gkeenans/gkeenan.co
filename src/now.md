@@ -22,11 +22,11 @@ Cool? Cool.
 
 ### Hi
 
-Today is **July 6, 2024**. I’m listening to "Boom Boom Back" by Hinds & Beck, which is brand new to me, and am delighted my Apple Music station served it up.
+Today is **July 6, 2024**. I’m listening to "Boom Boom Back" by Hinds & Beck, which is brand new to me, and I am delighted my Apple Music station served it up.
 
 ### Watching
 
-Hot on the heels of rewatching *Station Eleven,* just a couple weeks ago, I decided it was time to rewatch *Station Eleven* again because I bought the 4K Blu-ray. I know. I have a problem, but it's just so fucking good.
+Hot on the heels of rewatching *Station Eleven,* just a couple weeks ago, I decided it was time to rewatch *Station Eleven* again because I bought the 4K Blu-ray. I know. I have a problem, but it's just so fucking good. I honestly cannot remember the last time I wanted to watch something so much. I am normally not that person.
 
 ### Writing
 

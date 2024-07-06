@@ -22,16 +22,22 @@ Cool? Cool.
 
 ### Hi
 
-Today is **June 20, 2024**. I’m listening to "Doctor Eleven," which is the recurring, triumphant theme that plays through key points in *Station Eleven*. I've basically had it on repeat for days since I finished...
+Today is **July 6, 2024**. I’m listening to "Boom Boom Back" by Hinds & Beck, which is brand new to me, and am delighted my Apple Music station served it up.
 
 ### Watching
 
-rewatching *Station Eleven* for the first time since it came out back in 2021. I think it's maybe the best show I've ever seen, and I don't say that lightly. The second time around hit even harder than the first, and I was able to appreciate it so much more.
+Hot on the heels of rewatching *Station Eleven,* just a couple weeks ago, I decided it was time to rewatch *Station Eleven* again because I bought the 4K Blu-ray. I know. I have a problem, but it's just so fucking good.
 
-### Coding
+### Writing
 
-It’s true! I’ve decided to build upon my disparate HTML/CSS knowledge and learn how to code a website from scratch. In fact, I am currently writing this into a Markdown file in VS Code before I am even remotely ready to launch the redesigned site. How fun! Maybe I'll keep this here as sort of a little remnant for when I actually launch.
+I launched the site and wrote a [big whole thing about it](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/). Learning to code was a wildly fun and addictive experience, and I've had a blast continually tinkering with the new site in VS Code since I launched it a week or so ago.
+
+### Playing
+
+I am once again trying to get into Monster Hunter. I booted up Monster Hunter Rise, and made it much further than I did before. It's fun! But I don't know if it quite hooks me like it does with some people.
 
 ### Okay bye for now.
+
+Apple Music has decided to play "i haven't felt like me" by PRONOUN, which is another song that's brand new to me.
 
 

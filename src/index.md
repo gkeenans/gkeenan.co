@@ -19,7 +19,7 @@ Go ahead and poke around. Read my [blog][6]! It's very good. I think you'll like
 
 [1]: https://glass.photo/keenan
 [2]: /vo
-[3]: https://podcasts.apple.com/us/podcast/a-very-good-audio-blog/id1724269695
+[3]: /avgab/
 [4]: /about/colophon
 [5]: https://www.youtube.com/@snakebeefalo
 [6]: /avgb

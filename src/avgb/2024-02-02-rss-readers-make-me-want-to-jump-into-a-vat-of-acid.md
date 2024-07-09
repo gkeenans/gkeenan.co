@@ -2,6 +2,7 @@
 permalink: "/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid/index.html"
 title: "RSS readers make me want to jump into a vat of acid!"
 date: 2024-02-02T21:04:39.000Z
+tags: avgab
 ---
 
 * * *

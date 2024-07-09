@@ -2,6 +2,7 @@
 permalink: "/avgb/they-and-me/index.html"
 title: "They and Me"
 date: 2021-07-14T12:00:00.000Z
+tags: avgab
 ---
 **Listen along with the audioblog:**
 

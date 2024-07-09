@@ -130,6 +130,11 @@
   top: -10rem;
   }
 
+  .audiobloglist {
+    list-style: none;
+    margin-left: -2.5rem;
+  }
+
   h6.post-meta {
     display: block;
     margin-top: 10px;

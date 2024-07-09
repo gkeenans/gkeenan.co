@@ -2,6 +2,7 @@
 permalink: "/avgb/hot-take-its-okay-if-we-dont-consume-all-of-the-worlds-information-before-we-die/index.html"
 title: "Hot take: It’s okay if we don’t consume all of the world’s information before we die"
 date: 2023-11-15T23:57:32.000Z
+tags: avgab
 ---
 
 **Listen along with the audioblog:**

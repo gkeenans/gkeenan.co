@@ -126,6 +126,8 @@
   .bloglist {
   list-style: none;
   margin-left: -2.5rem;
+  position: relative;
+  top: -10rem;
   }
 
   h6.post-meta {
@@ -190,6 +192,19 @@
   }
   
   /* Format navigation */
+
+  aside {
+    font-size: 1rem;
+    max-width: 25%;
+    margin: auto;
+    text-wrap: balance;
+    border: solid 2px var(--accent);
+    padding: 1rem;
+    border-radius: 10px;
+    position: relative;
+    left: -33.5rem;
+    top: 3.5rem;
+  }
 
   #navprime {
     font-size: 1.1rem;
@@ -419,7 +434,22 @@
       padding-bottom: 25px;
       width: 100%;
       }
+
+    .bloglist {
+        top: 2rem
+      }
+
+    aside {
+        font-size: 1rem;
+        max-width: 55%;
+        text-wrap: wrap;
+        position: relative;
+        left: 0rem;
+        top: 1rem;
+      }
   }
+
+  
   
   /* FOR ALL THE FUCKIN' SMALL SCREENS. PLEASE DETACH FROM YOUR PHONE (this is advice for me) */
   
@@ -498,6 +528,15 @@
 
     ul {
       margin-left: -1rem;
+    }
+
+    aside {
+      font-size: 1rem;
+      max-width: 55%;
+      text-wrap: balance;
+      position: relative;
+      left: 0rem;
+      top: 1rem;
     }
     
   }

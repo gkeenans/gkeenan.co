@@ -114,6 +114,7 @@
   body a {
     text-decoration: underline;
     text-underline-offset: .25ex;
+    text-decoration-thickness: 1.5px;
     color: var(--text);
     transition: ease .15s;
   }

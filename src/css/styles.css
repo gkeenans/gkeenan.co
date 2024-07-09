@@ -414,6 +414,7 @@
     footer {
       width: 100%;
       margin: 0 !important;
+      margin-top: 4rem !important;
       }
   
     body > header {
@@ -537,11 +538,8 @@
 
     aside {
       font-size: 1rem;
-      max-width: 55%;
+      max-width: 80%;
       text-wrap: balance;
-      position: relative;
-      left: 0rem;
-      top: 1rem;
     }
     
   }

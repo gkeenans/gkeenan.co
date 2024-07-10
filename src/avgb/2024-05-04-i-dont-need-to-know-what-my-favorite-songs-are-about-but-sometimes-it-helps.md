@@ -70,7 +70,7 @@ I don't know. That's not how things worked out for me here. I can't possess the 
 Maybe it's enough I get to experience. I get to feel. I get to share. Today, I'm here. Tomorrow, I might not be.
 
 
-[^1]: And when I say "lil" I mean _lil_. It was one of [these](https://m.media-amazon.com/images/I/61SA48Q7DEL._AC_UF1000,1000_QL80_.jpg)! Mini CDs! I loved them so much. They had room for like six or seven songs, but they were so cute and colorful. I had a very strange fascination with CDs that didn't have the typical silvery rainbow bottoms (especially black, like the bottoms of PSX discs), and these all had bottoms that matched their tops and jewel cases.  
+[^1]: And when I say "lil" I mean _lil_. It was one of [these](https://avgb.b-cdn.net/img/memorex_mini_cds.jpg)! Mini CDs! I loved them so much. They had room for like six or seven songs, but they were so cute and colorful. I had a very strange fascination with CDs that didn't have the typical silvery rainbow bottoms (especially black, like the bottoms of PSX discs), and these all had bottoms that matched their tops and jewel cases.  
   
 [^2]: Still does! Great song. Go ahead and treat yourself to a listen.  
   

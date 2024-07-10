@@ -76,6 +76,6 @@ Maybe it's enough I get to experience. I get to feel. I get to share. Today, I'm
   
 [^3]: Thanks, Chad!  
   
-4 I refer to this facetiously, of course. Fun fact: I watched the [Bean Dad debacle](https://knowyourmeme.com/memes/events/bean-dad) play out in real time on Twitter, and it was actually the glass-shattering moment where I realized that site (and by extension [A LOT OF THE INTERNET](https://gkeenan.co/avgb/hey-so-i-think-i-fucking-hate-the-internet)) actually sucks so much shit. I have John Roderick to thank for me deleting my fucking account, and I've never looked back. Site sucks, and it's not Elon's fault.5  
+[^4]: I refer to this facetiously, of course. Fun fact: I watched the [Bean Dad debacle](https://knowyourmeme.com/memes/events/bean-dad) play out in real time on Twitter, and it was actually the glass-shattering moment where I realized that site (and by extension [A LOT OF THE INTERNET](https://gkeenan.co/avgb/hey-so-i-think-i-fucking-hate-the-internet)) actually sucks so much shit. I have John Roderick to thank for me deleting my fucking account, and I've never looked back. Site sucks, and it's not Elon's fault.[^5]  
   
 [^5]: It _is_ Elon's fault that it is EVEN WORSE than it was. Fuck Elon, fuck Twitter, and actually fuck Elon again just for good measure. Garbage person.__

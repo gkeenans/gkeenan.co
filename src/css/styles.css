@@ -113,8 +113,9 @@
 
   body a {
     text-decoration: underline;
-    text-underline-offset: 4px;
-    text-decoration-thickness: 1px;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--accent);
     color: var(--text);
     transition: ease .15s;
   }
@@ -227,12 +228,7 @@
 
   #navprime a {
     margin: 1rem 1rem 0 0;
-    color: var(--text-light);
     text-decoration: underline;
-  }
-  
-  #navprime a:hover {
-    color: var(--accent);
   }
 
   /* Add a little padding to ensure spacing is correct between content and nav */

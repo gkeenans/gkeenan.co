@@ -96,7 +96,7 @@ The fact that I can't go fully wireless with my Windows PC. The Bluetooth connec
 
 $450 is a lot to ask for headphones. The fact that these boast sound comparable to the AirPods Max, for $100 less, is nice. I actually ended up trading in my AirPods Max and knocking $130 of the purchase price. Knowing that I was replacing two annoying headphones, as well as adding functionality to my existing home audio setup, made that easier to justify.
 
-If you don't have a Sonos sound bar and aren't tied into the Apple ecosystem, I don't know if I would say, "Hey, yo, run out and buy these." They are damned good, but something tells me you could be equally pleased with something comparable from Bose or Sony for a similar or cheaper price.
+If you don't have a Sonos sound bar, I don't know if I would say, "Hey, yo, run out and buy these." They are damned good, but something tells me you could be equally pleased with something comparable from Bose or Sony for a similar or cheaper price.
 
 ***Are these actually questions people sent you? Sometimes it's hard to tell if you're serious or not.***
 

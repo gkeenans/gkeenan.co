@@ -22,22 +22,24 @@ Cool? Cool.
 
 ### Hi
 
-Today is **July 6, 2024**. I’m listening to "Boom Boom Back" by Hinds & Beck, which is brand new to me, and I am delighted my Apple Music station served it up.
+Today is **July 17, 2024** and I am ***SLEEP DEPRIVED.*** I am not currently listening to music, though I did listen to System of a Down's perfect album, *Toxicity,* earlier and, yeah, I mean, it is always a good time.
 
 ### Watching
 
-Hot on the heels of rewatching *Station Eleven,* just a couple weeks ago, I decided it was time to rewatch *Station Eleven* again because I bought the 4K Blu-ray. I know. I have a problem, but it's just so fucking good. I honestly cannot remember the last time I wanted to watch something so much. I am normally not that person.
+I just finished season three of *Halt & Catch Fire*, and I think it was my favorite season yet. Two wasn't quite as sharp as one felt, but now I'm heading into the fourth and final season expecting to be blown away. Show's great! Wish someone had tried to tell me years ago...
 
-### Writing
+### Making
 
-I launched the site and wrote a [big whole thing about it](https://gkeenan.co/avgb/an-alarmingly-concise-and-very-hinged-summary-of-what-it-was-like-to-build-this-site-from-scratch/). Learning to code was a wildly fun and addictive experience, and I've had a blast continually tinkering with the new site in VS Code since I launched it a week or so ago.
+I wrote about how I enjoy my [Sonos Headphones](https://gkeenan.co/avgb/uh-oh-i-think-i-really-like-the-sonos-ace-headphones/). I've also got a number of drafts in the hopper, as per usual.
+
+Also, Sara Joy [wrote a parody](https://sarajoy.dev/blog/write-websites/) of the "Everybody's Free (To Wear Sunscreen)" essay/song, and I made a vocal track, and then Robb put the audio to video and [posted it on YouTube](https://www.youtube.com/watch?v=v5UsuZ4DS_Q). Finally, the Internet is fun again!
 
 ### Playing
 
-I am once again trying to get into Monster Hunter. I booted up Monster Hunter Rise, and made it much further than I did before. It's fun! But I don't know if it quite hooks me like it does with some people.
+I've been putting a ton of time into Satisfactory this week with my buddy, Scott. I was initially hesitant, with the 1.0 release just around the corner, but, honestly, it's damn fun, I'm glad we jumped back in.
 
 ### Okay bye for now.
 
-Apple Music has decided to play "i haven't felt like me" by PRONOUN, which is another song that's brand new to me.
+I really need a nap.
 
 

@@ -24,17 +24,17 @@ I've had pretty good experience with their products over the years. The sound sy
 
 I should probably note that I am not a heavy user of their app, which I understand is a [major point of contention](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview) with many Sonos customers out there at the moment. To me, the app is fine. I barely have to interact with it.
 
-Aside from the trust I have in the overall sound and build quality of their products, the feature that swayed my purchasing decision the most was the Ace's alleged ability to transfer audio from the Arc sound bar directly to the headphones and back with the push of a button. That sounded fuckin' cool and exceptionally useful to me! My previous headphones were the AirPods Max, and while I could obviously use those with the Apple TV, the same could not be said for when I was playing the Xbox or PS5. My hope for the Ace was that they would be able to add new functionality, while completely replacing the AirPods Max (and also my Steelseries Arctis Nova Pro headset for PC gaming).
+Aside from the trust I have in the overall sound and build quality of their products, the feature that swayed my purchasing decision the most was the Ace's alleged ability to transfer audio from the Arc sound bar directly to the headphones and back with the push of a button. That sounded fuckin' cool and exceptionally useful to me! My previous headphones were the AirPods Max, and while I could obviously use those with the Apple TV, the same could not be said for when I was playing the Xbox or PS5. My hope for the Ace was that they would be able to add new functionality, while completely replacing the AirPods Max (and also my SteelSeries Arctis Nova Pro headset for PC gaming).
 
-***What was wrong with the AirPods Max and the... Arc..tis... Nova Pro? Steelseries? Whatever that is?***
+***What was wrong with the AirPods Max and the... Arc..tis... Nova Pro? SteelSeries? Whatever that is?***
 
 Look, I loved my AirPods Max for awhile. I got them when they launched a few years ago, and I've always enjoyed their sound. I thought they were comfortable. I liked that they were (kinda) pink! I liked that, when they worked, they were pretty seamless in switching between my various little Apple devices. The problem is that, with time, their reliability took a huge hit. It wasn't uncommon to put them on and just have them not recognize they were being worn. Or they would simply *not show up* on my phone, the device I used with them the most. I would often have to plug them in and unplug them again to kick them into gear. When that didn't work, I'd have to hard reset them. When *that* didn't work, I'd have to factory reset them and go through the whole setup process all over again. This happened multiple times in the last year, and it sucked! It got to a point where they caused more frustration than anything.
 
 Also, it needs to be said that their standby battery life from the day that I got them was fucking abysmal. Apple's insistence that these lil bastards didn't need a power button, that they were smart enough to enter a low power mode when you weren't wearing them is—I mean, uh, what's a polite way to say *fucking delusional?* So God forbid you forget to put them back in their little case, lest you put them on a day later only to find they were nearly drained of power. COOL.
 
-***Oookay, and the Steelseries?***
+***Oookay, and the SteelSeries?***
 
-I don't want to talk about it! I was duped into thinking they'd be terrific because of how much I loved their predecessor, the Arctis 7. To Steelseries's credit, the Arctis Nova Pro do sound good, and the hot-swappable battery rules, especially for long gaming sessions. But the software that is essentially required to install to get them working properly is beyond awful. I cannot even begin to detail the hours and hours and hours of frustration of having to wrestle with the malignant beast that is Steelseries Sonar, a piece of software that felt specifically designed to piss me off. 
+I don't want to talk about it! I was duped into thinking they'd be terrific because of how much I loved their predecessor, the Arctis 7. To SteelSeries's credit, the Arctis Nova Pro do sound good, and the hot-swappable battery rules, especially for long gaming sessions. But the software that is essentially required to install to get them working properly is beyond awful. I cannot even begin to detail the hours and hours and hours of frustration of having to wrestle with the malignant beast that is SteelSeries Sonar, a piece of software that felt specifically designed to piss me off. 
 
 Oh, and if I wore them for more than an hour, the inside of my left ear would start to feel actual, physical pain! WHAT?!
 
@@ -86,7 +86,7 @@ Not a question! But it's good. Better than the AirPods Max (and not just because
 
 ***Anything you're disappointed by?***
 
-The fact that I can't go fully wireless with my Windows PC. The Bluetooth connection on my PC is actual garbage. BUT, these have a USB-C port that I can connect either to the USB-C port or the 3.5mm jack on my PC. The wire is annoying, but dealing with the Steelseries software was exponentially more annoying, so this is a tradeoff I am happy to deal with.
+The fact that I can't go fully wireless with my Windows PC. The Bluetooth connection on my PC is actual garbage. BUT, these have a USB-C port that I can connect either to the USB-C port or the 3.5mm jack on my PC. The wire is annoying, but dealing with the SteelSeries software was exponentially more annoying, so this is a tradeoff I am happy to deal with.
 
 ***What was your favorite song to listen to on them?***
 

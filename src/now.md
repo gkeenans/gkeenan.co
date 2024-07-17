@@ -34,6 +34,10 @@ I wrote about how I enjoy my [Sonos Headphones](https://gkeenan.co/avgb/uh-oh-i-
 
 Also, Sara Joy [wrote a parody](https://sarajoy.dev/blog/write-websites/) of the "Everybody's Free (To Wear Sunscreen)" essay/song, and I made a vocal track, and then Robb put the audio to video and [posted it on YouTube](https://www.youtube.com/watch?v=v5UsuZ4DS_Q). Finally, the Internet is fun again!
 
+### Learning
+
+I've decided it's time to learn European Portuguese for... secret reasons. Unfortunately, much of the resources out there focus on Brazilian Portuguese. Beautiful language, don't get me wrong! But I am on the lookout for resources tailored to Europe. Send me suggestions!
+
 ### Playing
 
 I've been putting a ton of time into [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) this week with my buddy, Scott. I was initially hesitant, with the 1.0 release just around the corner, but, honestly, it's damn fun. I'm glad we jumped back in.

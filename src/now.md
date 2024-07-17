@@ -36,7 +36,7 @@ Also, Sara Joy [wrote a parody](https://sarajoy.dev/blog/write-websites/) of the
 
 ### Playing
 
-I've been putting a ton of time into [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) this week with my buddy, Scott. I was initially hesitant, with the 1.0 release just around the corner, but, honestly, it's damn fun, I'm glad we jumped back in.
+I've been putting a ton of time into [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) this week with my buddy, Scott. I was initially hesitant, with the 1.0 release just around the corner, but, honestly, it's damn fun. I'm glad we jumped back in.
 
 ### Okay bye for now.
 

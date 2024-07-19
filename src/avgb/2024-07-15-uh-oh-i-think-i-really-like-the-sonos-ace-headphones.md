@@ -78,7 +78,7 @@ No, actually. And to that point, I'm kinda blown away by how cool the TV Swap fe
 
 ***Any discernible latency with that?***
 
-Not that I can perceive. I was a little shocked to read [RTINGS review](https://www.rtings.com/headphones/reviews/sonos/ace-wireless), because in their testing they did notice some distracting latency. This has not been my experience at all. It's been basically flawless. So, uh, your mileage may vary?
+Not that I can perceive. I was a little shocked to read [RTINGS review](https://www.rtings.com/headphones/reviews/sonos/ace-wireless), because in their testing they did notice some distracting latency. This has not been my experience at all. It's been basically flawless.[^4] So, uh, your mileage may vary?
 
 ***Battery life!***
   
@@ -90,7 +90,7 @@ The fact that I can't go fully wireless with my Windows PC. The Bluetooth connec
 
 ***What was your favorite song to listen to on them?***
 
-["Never Ever (feat. Susanne Sundfør)" by Röyksopp](https://www.youtube.com/watch?v=JDBzeM6KLlQ).[^4] I am listening to it on repeat right now and it is very good.
+["Never Ever (feat. Susanne Sundfør)" by Röyksopp](https://www.youtube.com/watch?v=JDBzeM6KLlQ).[^5] I am listening to it on repeat right now and it is very good.
 
 ***Any final thoughts?***
 
@@ -100,10 +100,11 @@ If you don't have a Sonos sound bar, I don't know if I would say, "Hey, yo, run 
 
 ***Are these actually questions people sent you? Sometimes it's hard to tell if you're serious or not.***
 
-I think life is full of wonderful little mysteries that we don't always have the answer to. You have to ask yourself whether or not it's worth sanding away every little bit of whimsy just to experience the feeling of superiority of *knowing* something. I, personally, understand the inclination. I was trained from a young age to look for answers—specifically, the *right* answers, as though the *right* answer is a thing that exists in all circumstances. But as I get older, I am often distressed by how imprisoned we are—collectively-speaking, of course—by literalism. Sometimes things can just be, and when we learn to just accept that in those situations there is, in fact, no right. No wrong. No objectivity. I mean, Christ, there are people out there who don't like *The Last Jedi.* I could drive myself fucking insane trying to convince them that it is the best thing *Star Wars* has produced since *Empire,*[^5] but the reality is that there's no way to produce any sort of factual evidence for a completely subjective claim. We'd all be better off if we learned to accept that it's not always possible to explain things. Some things just *are,* and that's okay. We don't need to spend our lives trying to correct perceived injustices.
+I think life is full of wonderful little mysteries that we don't always have the answer to. You have to ask yourself whether or not it's worth sanding away every little bit of whimsy just to experience the feeling of superiority of *knowing* something. I, personally, understand the inclination. I was trained from a young age to look for answers—specifically, the *right* answers, as though the *right* answer is a thing that exists in all circumstances. But as I get older, I am often distressed by how imprisoned we are—collectively-speaking, of course—by literalism. Sometimes things can just be, and when we learn to just accept that in those situations there is, in fact, no right. No wrong. No objectivity. I mean, Christ, there are people out there who don't like *The Last Jedi.* I could drive myself fucking insane trying to convince them that it is the best thing *Star Wars* has produced since *Empire,*[^6] but the reality is that there's no way to produce any sort of factual evidence for a completely subjective claim. We'd all be better off if we learned to accept that it's not always possible to explain things. Some things just *are,* and that's okay. We don't need to spend our lives trying to correct perceived injustices.
 
 [^1]: omg do u think we'll get married??
 [^2]: Worth pointing out that while I don't mind the Sonos app for managing the headphones, I do miss the fact that these are not nearly as tightly integrated with iOS. Something to be said for first-party peripherals—*when they work.*
 [^3]: And Soon™ to their other sound bars. Neat!
-[^4]: Also that music video rules.
-[^5]: Which I unironically believed until *Andor* came out.
+[^4]: ***Update - 07/19/2024:*** Okay, nearly two weeks out and I experienced the first issue with latency. I was watching something on Plex on Apple TV, then I switched to the YouTube app and the first thing I played had a delay of maybe half a second. More than enough to be noticeable and annoying. Toggling the TV Swap option cleared things up. So yeah, mileage! It varies!
+[^5]: Also that music video rules.
+[^6]: Which I unironically believed until *Andor* came out.

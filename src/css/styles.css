@@ -210,6 +210,15 @@
     position: relative;
     left: -33.5rem;
     top: 3.5rem;
+    box-shadow: 3.3px 10.1px 10.1px hsl(0deg 0% 0% / 0.30);
+    transition: .3s ease-in-out;
+  }
+
+  aside:hover {
+    border: solid 2px #ff86b8;
+    background-color: var(--accent-bg);
+    transition: .3s ease-in-out;
+    box-shadow: 6.6px 13.1px 13.1px hsl(0deg 0% 0% / 0.30);
   }
 
   #navprime {

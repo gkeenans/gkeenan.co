@@ -35,6 +35,10 @@
   
   }
 
+  ::selection {
+    background: #ffc4d8;
+  }
+
  /* Dark theme */
 
   @media (prefers-color-scheme: dark) {
@@ -45,6 +49,10 @@
     --text-light: #ff91b6;
     --border: #794a59;
     --accent: #ff398b;
+
+  ::selection {
+    background: #6e0a2a;
+  }
   }
 
   img {

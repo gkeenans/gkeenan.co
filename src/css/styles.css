@@ -203,7 +203,6 @@
     font-size: 1rem;
     max-width: 25%;
     margin: auto;
-    text-wrap: balance;
     border: solid 2px var(--accent);
     padding: 1rem;
     border-radius: 10px;
@@ -452,7 +451,7 @@
 
     aside {
         font-size: 1rem;
-        max-width: 55%;
+        max-width: 25%;
         text-wrap: wrap;
         position: relative;
         left: 0rem;
@@ -543,8 +542,7 @@
 
     aside {
       font-size: 1rem;
-      max-width: 80%;
-      text-wrap: balance;
+      max-width: 50%;
     }
     
   }

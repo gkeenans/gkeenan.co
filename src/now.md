@@ -22,28 +22,20 @@ Cool? Cool.
 
 ### Hi
 
-Today is **July 17, 2024** and I am ***SLEEP DEPRIVED.*** I am not currently listening to music, though I did listen to System of a Down's perfect album, *Toxicity,* earlier and, yeah, I mean, it is always a good time.
+Today is **July 24, 2024** and against my better judgment, I drank a Red Bull earlier. I am not currently listening to music, since I'm about to hop on a phone call.
 
 ### Watching
 
-I just finished season three of *Halt & Catch Fire*, and I think it was my favorite season yet. Two wasn't quite as sharp as one felt, but now I'm heading into the fourth and final season expecting to be blown away. Show's great! Wish someone had tried to tell me years ago...
+Nearing the end of *Halt & Catch Fire* and, holy shit, this season wrecked me. I had no idea. It's so good.
 
-### Making
-
-I wrote about how I enjoy my [Sonos Headphones](https://gkeenan.co/avgb/uh-oh-i-think-i-really-like-the-sonos-ace-headphones/). I've also got a number of drafts in the hopper, as per usual.
-
-Also, Sara Joy [wrote a parody](https://sarajoy.dev/blog/write-websites/) of the "Everybody's Free (To Wear Sunscreen)" essay/song, and I made a vocal track, and then Robb put the audio to video and [posted it on YouTube](https://www.youtube.com/watch?v=v5UsuZ4DS_Q). Finally, the Internet is fun again!
+Also, I watched the finale of *Presumed Innocent* on Apple TV+ and it was... fine. The show itself was solid, but I'm sort of iffy on how everything wrapped up. Performances were great throughout though.
 
 ### Learning
 
-I've decided it's time to learn European Portuguese for... secret reasons. Unfortunately, much of the resources out there focus on Brazilian Portuguese. Beautiful language, don't get me wrong! But I am on the lookout for resources tailored to Europe. Send me suggestions!
-
-### Playing
-
-I've been putting a ton of time into [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) this week with my buddy, Scott. I was initially hesitant, with the 1.0 release just around the corner, but, honestly, it's damn fun. I'm glad we jumped back in.
+I've pivoted from Portuguese to German for... well, still reasons. We'll see. Maybe I'll switch to Spanish, but, hey, German is fun!
 
 ### Okay bye for now.
 
-I really need a nap.
+Excited to dive back into some essay writing after I finish these phone calls.
 
 

@@ -25,7 +25,7 @@ media:
     # A per-episode description if you want it
     description: 'Read this original post in its entirety (including all of the footnotes and links you could ever ask for) at this link: <a href="https://gkeenan.co/avgb/the-meat-grinder">https://gkeenan.co/avgb/the-meat-grinder</a><br><br>
 
-A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
+    A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added summary
     summary: In which I learn that corporations are not to be loved.

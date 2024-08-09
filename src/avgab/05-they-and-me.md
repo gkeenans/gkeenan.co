@@ -25,7 +25,7 @@ media:
     # A per-episode description if you want it
     description: 'Read this original post in its entirety at this link: <a href="https://gkeenan.co/avgb/they-and-me/">https://gkeenan.co/avgb/they-and-me/</a><br><br>
 
-A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
+    A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added summary
     summary: Another step in the journey of self-discovery.

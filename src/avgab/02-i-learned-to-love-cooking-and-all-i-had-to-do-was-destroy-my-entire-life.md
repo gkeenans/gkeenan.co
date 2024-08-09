@@ -25,7 +25,7 @@ media:
     # A per-episode description if you want it
     description: 'Read this original post in its entirety (including copious footnotes for that little extra special seasoning) at this link: <a href="https://gkeenan.co/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life">https://gkeenan.co/avgb/i-learned-to-love-cooking-and-all-i-had-to-do-was-destroy-my-entire-life</a><br><br>
 
-A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
+    A Very Good Audio Blog is fully produced from start to finish by me, Keenan.'
 
     # Keenan added summary
     summary: Maybe this isn't really about cooking after all.

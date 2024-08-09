@@ -46,3 +46,7 @@ I want to feel a little less anxious;
 I want to make art that lasts;
 
 I want to live in the [Sticktwist bread video](https://vimeo.com/44654185);
+
+###### 08.09.2024
+
+I want to finish this fucking essay!;

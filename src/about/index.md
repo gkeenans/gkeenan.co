@@ -33,7 +33,7 @@ If you’re here, you’ve probably seen my photos, my VO work, podcasts, writin
 
 I don’t care. I’m not afraid to be seen trying (anymore).<br><br>
 
-<img id="aboutselfie" src="/assets/img/self.jpeg" alt="Self-portrait of a bearded, masculine-presenting person sitting cross-legged on a bed, taking a photo with an iPhone in a mirror. They have short, dark hair swept to one side, and they're wearing glasses, a pink hoodie, blue jeans, and dark blue nail polish.">
+<img id="aboutselfie" src="/assets/img/self.jpeg" alt="Self-portrait of a masculine-presenting person taking a photo with an iPhone in a mirror. They are wearing a black army cap and a pink henley t-shirt. Their facial hair is a dark, full mustache with a small patch underneath their bottom lip. A small glimpse of dark blue nail polish can be seen on a few of their fingers.">
 
 <div class="imgcap">A relatively accurate depiction of what I look like.</div><br>
 <hr></hr>

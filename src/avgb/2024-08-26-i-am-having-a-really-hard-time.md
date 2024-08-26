@@ -4,7 +4,7 @@ title: I AM HAVING A REALLY HARD TIME
 date: 2024-08-26T06:40:00.000Z
 ---
 
-As I start this document, it is 2:46 in the actual A.M. and I have absconded from the warmth of my bed to bask in the putrid blue glow of this godforsaken monitor. If endless scrolling on a barely lit OLED wasn't conducive to sleeping, I shudder at the thought of what this is doing to me. iA Writer, for all of the beauty inherent in its minimalim, is quite blinding. I can see the little floaties bespeckling my cornea, they dance around with every microadjustment of my eye, little squiggly patches of blur flitting about.[^1] Are my eyes dry? Is it allergies? Is it cancer? Am I just old?
+As I start this document, it is 2:46 in the actual A.M. and I have absconded from the warmth of my bed to bask in the putrid blue glow of this godforsaken monitor. If endless scrolling on a barely lit OLED wasn't conducive to sleeping, I shudder at the thought of what this is doing to me. iA Writer, for all of the beauty inherent in its minimalism, is quite blinding. I can see the little floaties bespeckling my cornea, they dance around with every microadjustment of my eye, little squiggly patches of blur flitting about.[^1] Are my eyes dry? Is it allergies? Is it cancer? Am I just old?
 
 I am having a really hard time.
 

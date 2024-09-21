@@ -37,7 +37,7 @@ I love As Tall As Lions so much I saw them live! Twice![^2] That's a record for 
 
 I was at Bottom Lounge on April 6, 2010, to see them play with A Lull and Bad Veins. I can still feel A Lull's percussion vibrating in my chest. I can still hear Benjamin Davis of Bad Veins singing through this weird telephone-looking thing to create the tinny, distorted vocals on "Gold & Warm." I can still feel my heart in my throat as I held back tears while Dan Nigro's falsetto cut through me during "Stab City." I wish I could go back there, now that I've learned it's okay to cry.
 
-I was there on December 19, 2010 to see their farewell show at Lincoln Hall. There was no way I was going to let them fade away, never to be heard from again, without having one last memory of seeing them on stage. It was up there with the one time I saw Girl Talk live. An incredible show that (I hope) will live with me forever.
+I was there on December 19, 2010 to see their [farewell show at Lincoln Hall](https://www.youtube.com/watch?v=XlzCHwAcbic). There was no way I was going to let them fade away, never to be heard from again, without having one last memory of seeing them on stage. It was up there with the one time I saw Girl Talk live. An incredible show that (I hope) will live with me forever.
 
 I actually hadn't ever watched that video before I started writing this. Until today, that performance was mere memory. It's funny reliving it. I recall them sounding better in person. There is something to be said for getting swept up in the moment.
 

@@ -280,4 +280,4 @@ I miss Sam.
 
 [^8]: What does that even mean? How was this measured? Who was doing the measuring?? Doesn't matter! Facts don't care about feelings, and all that. Quit asking questions!
 
-[^9]: I don't have to search very far to find the root cause of my health anxiety and why cancer is the root cause of every single ache, pain, and pang I experience.
+[^9]: I don't have to search very far to find the root cause of my health anxiety and why cancer is invariably the culprit of every single ache, pain, and pang I experience.

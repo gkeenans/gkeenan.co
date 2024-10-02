@@ -31,7 +31,7 @@ really
 hard
 time
 
-and I guess I just want to tell him one last time that I love him. That I'm sorry we stopped talking after I quit Facebook in 2016, that I'm still angry at the person he became, the things he believed, the theories that killed him. Is there space for reconciliation or is it too late? Maybe I'll get a chance to ask him when the eye floaties finally come for me. For once, I hope he was right about God. Did He forgive?
+and I guess I just want to tell him one last time that I love him. That I'm sorry we stopped talking after I quit Facebook in 2017, that I'm still angry at the person he became, the things he believed, the theories that killed him. Is there space for reconciliation or is it too late? Maybe I'll get a chance to ask him when the eye floaties finally come for me. For once, I hope he was right about God. Did He forgive?
 
 What am I supposed to do now? Wrap it up into a thing and give it to the world and hope that that's enough? 
 

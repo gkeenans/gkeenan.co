@@ -6,7 +6,7 @@ date: 2024-10-02T17:30:00.000Z
 
 
 ### 1
-This is the first time I remember crying: It's, I don't know, 1991? I'm four or five or something. Like so much of my childhood, the details are a hazy cloud of disparate memories swirling about, occasionally condensing into a revelatory burst of clarity. What has coalesced about this particular moment is that we live in our house in Elburn. I see my dad sitting on the couch in the living room. I feel sad—so sad, in fact, that I decide to seek solace from *him* rather than track down my mother. I crawl up onto the couch and sit next to him before being so overwhelmed by that sadness that I start sobbing. He holds me and asks what's wrong. 
+This is the first time I remember crying: It's, I don't know, 1991? I'm four or five or something. Like so much of my childhood, my memory of it is elusive. A hazy cloud of disparate details swirling about, occasionally condensing into a revelatory burst of clarity. What has coalesced about this particular moment is that we live in our house in Elburn. I see my dad sitting on the couch in the living room. I feel sad—so sad, in fact, that I decide to seek solace from *him* rather than track down my mother. I crawl up onto the couch and sit next to him before being so overwhelmed by that sadness that I start sobbing. He holds me and asks what's wrong. 
 
 I manage, eventually, to say through the tears, "I miss Sam." 
 

@@ -1,7 +1,7 @@
 ---
 media:
     # Keenan added title
-    title: 'I've miss Sam for a long time (or: Pick Your Battles)'
+    title: "I've miss Sam for a long time (or: Pick Your Battles)"
     
     # Keenan added date
     date: 2024-10-03T08:00:00

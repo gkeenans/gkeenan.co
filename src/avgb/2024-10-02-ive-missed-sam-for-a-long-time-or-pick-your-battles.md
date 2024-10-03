@@ -187,7 +187,7 @@ I'm 25. My 28 year-old cousin could die to the same disease that took our grandp
 
 When was the last time I talked to him? Our last DM was years ago. Long after countless arguments in Facebook threads. Long after I got tired of the constant bickering. Witnessing his reunification with God. Reading all of the ways that Liberals were poisoning America. The condescending, downright mean way he approached seemingly every conversation that wasn't about movies or video games, and those had become fewer and further between.
 
-I know I slammed a door on our relationship. I put distance between us to save myself the anguish, the anxiety, the frustration. I'm still angry at him. Still angry at his dad, with whom I had had a major falling out two years prior. Still angry that Sam never reached out to me afterward. That the person who used to stand up for me no longer gives a fuck.
+I know I slammed a door on our relationship. I put distance between us to save myself the anguish, the anxiety, the frustration. I'm still angry at him. Still angry at his dad, with whom I had had a falling out two years prior. Still angry that Sam never reached out to me afterward. That the person who used to stand up for me no longer gives a fuck.
 
 But now that anger is supplanted by new emotions. Fear. Sadness. I'm afraid and sad that my cousin could die and the last interaction we had was saturated by the stench of conflict. I can't bear the thought of living with that.
 

@@ -212,7 +212,7 @@ He agreed, and he told me that he was glad I said something, because he experien
 
 So we did. 
 
-It was nice hearing his voice. Talking to him like a person and not merely a wall of text whose tone, intonation, and intention was largely on me to interpret. It felt effortless, like no time had passed at all. The same two kids laughing into the night in the back of the pickup, now grown up. We talked for—fuck, I dunno, three hours? Covered a lot of ground. Abortion. Science fiction. Religion. Video games. We argued, but in a way that felt mostly respectful. Devoid of the viciousness that punctuated our online discourse. Though I distinctly recall the familiar feeling of him disregarding most of my points as "illogical."
+It was nice hearing his voice. Talking to him like a person and not merely a wall of text whose tone, intonation, and intention was largely on me to interpret. It felt effortless, like no time had passed at all. The same two kids laughing into the night in the back of a pickup, now grown up. We talked for—fuck, I dunno, three hours? Covered a lot of ground. Abortion. Science fiction. Religion. Video games. We argued, but in a way that felt mostly respectful. Devoid of the viciousness that punctuated our online discourse. Though I distinctly recall the familiar feeling of him disregarding most of my points as "illogical."
 
 As we wrapped up, he said something to me that still baffles me to this day. "I disagree with your worldview, but you articulate yourself so much more clearly and consistently than someone like Richard Dawkins."
 

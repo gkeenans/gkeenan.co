@@ -17,10 +17,10 @@ media:
     content: 'https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%206%20ive%20missed%20sam.mp3'
     
     # The duration of the episode in seconds
-    duration: '2461'
+    duration: '2454'
 
     # The filesize of the MP3 file in bytes
-    fileSize: '78748057.6'
+    fileSize: '78538342.4'
 
     # A per-episode description if you want it
     description: 'Read this original post in its entirety at this link: <a href="https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/">https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/</a><br><br>

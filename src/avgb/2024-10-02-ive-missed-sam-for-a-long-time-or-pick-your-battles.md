@@ -2,8 +2,18 @@
 permalink: "/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/index.html"
 title: "I've missed Sam for a long time (or: Pick Your Battles)"
 date: 2024-10-02T17:30:00.000Z
+tags: avgab
 ---
 
+* * *
+
+**Listen along with the audioblog:**
+
+<audio controls>
+    <source src="https://avgb.b-cdn.net/AVGAB/episodes/AVGAB%20ep%206%20ive%20missed%20sam.mp3" type="audio/mpeg">
+</audio>
+
+* * *
 
 ### 1
 This is the first time I remember crying: It's, I don't know, 1991? I'm four or five or something. Like so much of my childhood, my memory of it is elusive. A hazy cloud of disparate details swirling about, occasionally condensing into a revelatory burst of clarity. What has coalesced about this particular moment is that we live in our house in Elburn. I see my dad sitting on the couch in the living room. I feel sad—so sad, in fact, that I decide to seek solace from *him* rather than track down my mother. I crawl up onto the couch and sit next to him before being so overwhelmed by that sadness that I start sobbing. He holds me and asks what's wrong. 
@@ -44,7 +54,7 @@ Disappointed, I slink off to go sulk in my grandparents' trailer, the one they t
 
 Later, I emerge to see everyone still playing cards—including Sam and Kim. I find my mom in the trailer and break down crying. She asks me what's wrong. 
 
-I tell her that I feel left out. I didn’t understand why my cousins were invited, but I wasn’t. 
+I tell her that I feel left out. I don't understand why my cousins were invited, but I wasn’t. 
 
 That evening, Sam and I are in the bed of my grandparents' truck. We called dibs on it as a sleeping spot. I can't explain why it feels so cool to sleep on a pile of blankets and pillows back there—actually, maybe it's because it reminds me of the scene in *The Rescuers Down Under* where they introduce the main protagonist, a kid who we first see sleeping in a hammock under a pile of clothes somewhere in the Australian Outback. This is an image that sticks with me well into adulthood because I guess I always romanticize the idea of some sort of rugged, scrappy life where I'm just barely getting by?[^3] 
 
@@ -112,7 +122,7 @@ I asked her why she hadn't pushed back harder in that conversation. After all, s
 
 Weeks later, that dinner still gnawed at me, the conversation replaying itself over and over and over. I didn't think I could ever sway Sam from his Christian Love of queer people, but I knew, at the very least, I could determine whether or not some of his "facts" held up under scrutiny. I wrote him an email telling him that I was having a difficult time shaking what he said, and that after some research, I had determined that his anecdote about Darwin was unequivocally false. A lie propagated by critics of Darwin's work.
 
-To this day, his response still surprises me, for myriad reasons. He wrote:
+To this day, his response still surprises me, for many reasons. He wrote:
 
 > The thing with Darwin. I'm really happy you looked into that. It's actually something I recently discovered was yet another lie that was told to me as fact. I did not even remember that I had said it to you or I would have contacted you and let you know. There are many things that the "Christian" church taught me that have been lies. Pardon my French but, bullshit like this is the reason I don't go to church anymore. I can't speak for all churches or Christian denominations, because I'm sure there are still some good ones out there, but I've found most of them are built on groupthink. Self-deception is the name of the game. The problem is it's been going on so damn long most of them don't even know their [sic] continuing the tradition. I'll spare you the full on rant here, because I could go on for pages. As I said, I'm happy you looked that up and did not allow the bullshit to spread to yet another person. I'm sorry that I said that to you. Over the past two years or so I've had to sift through everything I was taught at church for the first eighteen years of my life. Separating the truth from the lies is not an easy task.
 
@@ -133,9 +143,9 @@ I spend the rest of the afternoon seething. I play video games on the Xbox until
 
 When I return to my apartment, I see the new voicemail icon on the screen of my Motorola Q, and a missed call from Sam. 
 
-I’m trying to recall the exact message as best as I can, decades later.
+I’m trying to recall the message as best as I can, decades later.
 
-“Hey, Keenan,” he said. “My mom called me to talk about what happened. She feels really bad about it. I’m sorry she treated you that way. I hope you know that everyone in my family cares about you a lot. I understand if you don’t wanna talk to me about it. I definitely understand if you don’t want to talk to her. But I wanted to call and tell you how much you mean to me.”
+“Hey, Keenan,” he said. “My mom called me to talk about what happened. She feels really bad about it. I’m sorry she treated you that way. I hope you know that everyone in my family cares about you a lot. I understand if you don’t wanna talk to me about it. I definitely understand if you don’t want to talk to her. But I wanted to call you and tell you how much you mean to me.”
 
 And then he finished his voicemail with a simple: “I just want to make sure you know that I love you, man.”
 
@@ -173,7 +183,7 @@ Treatment, imminent.
 
 Prognosis, cautiously optimistic.
 
-I'm 25 when I realize my 28 year-old cousin could die to the same disease that took our grandparents.[^9]
+I'm 25. My 28 year-old cousin could die to the same disease that took our grandparents.[^9]
 
 When was the last time I talked to him? Our last DM was years ago. Long after countless arguments in Facebook threads. Long after I got tired of the constant bickering. Witnessing his reunification with God. Reading all of the ways that Liberals were poisoning America. The condescending, downright mean way he approached seemingly every conversation that wasn't about movies or video games, and those had become fewer and further between.
 
@@ -196,13 +206,13 @@ After cops murdered Michael Brown in 2014, we argued about police brutality. Sam
 
 Regardless, our correspondences were largely devoid of tact, and every time I saw him post, I felt the uniquely shitty simmering feeling of anxiety deep within my chest. The kind of anxiety where it was hard to breathe. The kind where you want to lock yourself away in a tiny little box and wait out the apocalypse that was surely imminent. At a certain point, when I could accurately name this feeling for what it was, I knew I couldn't continue to let it dominate my perception of him.
 
-I sent him a DM to say that I had realized that any time he posted anything, I felt this anxiety, and that I hated that it had overtaken so much of my perception of him that it made it hard to even think about having a normal conversation. I missed how things used to be, the conversations we used to have. I told him that I didn't think text-based communication was the best way forward for us.
+I sent him a DM to say that I had realized that any time he posted anything, I felt this anxiety, and that I hated that it had overtaken so much of my perception of him that it made it hard to even think about having a normal conversation. I missed how things used to be, the conversations we used to have. I told him I didn't think text-based communication was the best way forward for us.
 
 He agreed, and he told me that he was glad I said something, because he experienced similar anxiety, making it difficult to engage with *me*. He suggested we try something different. Maybe make some time to chat over Skype.
 
 So we did. 
 
-It was nice hearing his voice. Talking to him like a person and not merely a wall of text whose tone, intonation, and intention was largely on me to interpret. It felt effortless, like no time has passed at all. The same two kids laughing into the night in the back of the pickup, now grown up. We talked for—fuck, I dunno, three hours? Covered a lot of ground. Abortion. Science fiction. Religion. Video games. We argued, but in a way that felt mostly respectful. Devoid of the viciousness that punctuated our online discourse. Though I distinctly recall the familiar feeling of him disregarding most of my points as "illogical."
+It was nice hearing his voice. Talking to him like a person and not merely a wall of text whose tone, intonation, and intention was largely on me to interpret. It felt effortless, like no time had passed at all. The same two kids laughing into the night in the back of the pickup, now grown up. We talked for—fuck, I dunno, three hours? Covered a lot of ground. Abortion. Science fiction. Religion. Video games. We argued, but in a way that felt mostly respectful. Devoid of the viciousness that punctuated our online discourse. Though I distinctly recall the familiar feeling of him disregarding most of my points as "illogical."
 
 As we wrapped up, he said something to me that still baffles me to this day. "I disagree with your worldview, but you articulate yourself so much more clearly and consistently than someone like Richard Dawkins."
 

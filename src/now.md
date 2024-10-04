@@ -22,18 +22,29 @@ Cool? Cool.
 
 ### Hi
 
-Today is **August 26, 2024** and I am awake at 3:26 a.m. because I haven't yet fallen asleep and, yeah, that is upsetting.
+Today is **October 4, 2024** and I hear nothing except the *Balatro* theme playing in my head. Constantly. It haunts my dreams.
 
-### Listening
+### Writing
 
-The one saving grace is that Charles made me a playlist to test out my new headphones, and Jesus Christ, this thing is *good*. Get you a friend who knows how to put together a banger playlist. Everyone needs a Charles.
+I finally, *FINALLY*, finished my essay about my cousin. After years of introspection and weeks and weeks and weeks of work, [it is done](https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/). I'm proud of how it turned out, and I cannot explain just how touching it has been to receive such lovely messages about it since I published.
 
 ### Watching
 
-Oh, hey, started watching *Veep* again.
+I've been watching a bunch of movies lately. Check out my Letterboxd profile to see all the activity. My favorite one (excluding my third rewatch of *Past Lives* because that's unfair to every other movie), I think, *Another Round*, with *The Hunt* a close second. Honestly, if Mads Mikkelsen is in it, I'm probably going to like it.[^1]
 
-### Okay bye for now.
+### Playing
 
-I just needed to update this thing.
+*Balatro*, mostly. Tried getting back into *Horizon Forbidden West* and I feel like I need to give up on that dream. I just don't have much fun with it.
 
+But that's also kinda, like, how things are going for me lately. It's been hard to find a video game that holds my attention. Maybe I'm depressed.
 
+### Learning
+
+Today I hit my 72 day streak of learning German[^2] in Duolingo.
+
+### Okay, bye for now!
+
+Gonna go vacuum the house.
+
+[^1]: With one NOTABLE EXCEPTION that I can recall. Send me your best guess.
+[^2]: For secret reasons.

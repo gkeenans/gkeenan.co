@@ -26,7 +26,7 @@ Today is **October 4, 2024** and I hear nothing except the *Balatro* theme playi
 
 ### Writing
 
-I finally, *FINALLY*, finished my essay about my cousin. After years of introspection and weeks and weeks and weeks of work, [it is done](https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/). I'm proud of how it turned out, and I cannot explain just how touching it has been to receive such lovely messages about it since I published.
+I finally, *FINALLY*, finished my essay about my cousin. After years of introspection and weeks and weeks and weeks (and also months!) of work, [it is done](https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/). I'm proud of how it turned out, and I cannot explain just how touching it has been to receive such lovely messages about it since I published.
 
 ### Watching
 

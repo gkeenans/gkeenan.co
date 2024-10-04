@@ -30,7 +30,7 @@ I finally, *FINALLY*, finished my essay about my cousin. After years of introspe
 
 ### Watching
 
-I've been watching a bunch of movies lately. Check out my Letterboxd profile to see all the activity. My favorite one (excluding my third rewatch of *Past Lives* because that's unfair to every other movie), I think, *Another Round*, with *The Hunt* a close second. Honestly, if Mads Mikkelsen is in it, I'm probably going to like it.[^1]
+I've been watching a bunch of movies lately. Check out [my Letterboxd profile](https://letterboxd.com/gkeenan/) to see all the activity. My favorite one (excluding my third rewatch of *Past Lives* because that's unfair to every other movie), I think, *Another Round*, with *The Hunt* a close second. Honestly, if Mads Mikkelsen is in it, I'm probably going to like it.[^1]
 
 ### Playing
 

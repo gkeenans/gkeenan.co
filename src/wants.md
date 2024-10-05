@@ -49,4 +49,8 @@ I want to live in the [Sticktwist bread video](https://vimeo.com/44654185);
 
 ###### 08.09.2024
 
-I want to finish this fucking essay!;
+~~I want to finish this fucking essay!~~;
+
+###### 10.05.2024
+
+I want to make people feel something, anything;

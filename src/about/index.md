@@ -3,7 +3,7 @@ title: About
 layout: base.njk
 ---
 
-## Non-binary jack-of-all-trades.
+## Hi. I'm doing my best.
 
 <nav class="subnav">
     <ul>
@@ -40,7 +40,7 @@ I don’t care. I’m not afraid to be seen trying (anymore).<br><br>
 
 ### Fun facts:
 
-    I use they/them pronouns.
+    I enjoy a Charleston Chew.
 
     I do not know what I am doing and I am often very scared!!!
 

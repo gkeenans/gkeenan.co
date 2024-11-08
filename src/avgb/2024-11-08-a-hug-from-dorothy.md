@@ -24,7 +24,7 @@ And without skipping a beat, she said, "Of course!" And she threw her arms aroun
 
 It was like she knew. She saw a quiet little queer kid trying their best to figure everything out. And she knew. It's the love of others that gets us through.
 
-[Dorothy died a couple days ago.](https://mailchi.mp/sinisterwisdom/dorothyallison?e=907ddb10c6). I met her once, briefly, decades ago. 
+[Dorothy died this week.](https://mailchi.mp/sinisterwisdom/dorothyallison?e=907ddb10c6). I met her once, briefly, decades ago. 
 
 All of her struggle and her bravery and her warmth, I can still feel it wrapped around me.
 

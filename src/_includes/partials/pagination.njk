@@ -4,8 +4,8 @@
   <nav aria-label="pagination">
   {% if nextPost %}
       <h3>Next: </h3><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+      <br><br>
     {% endif %}
-    <br><br>
     {% if previousPost %}
       <h3>Previous: </h3><a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
     {% endif %}  

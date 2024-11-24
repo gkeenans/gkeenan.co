@@ -32,7 +32,7 @@ And the truth that congeals as I write this out now is that it’s not that I’
 
 At 35 years old, I care more about the approval of others than at any other time in my life. It's paralyzing. 
 
-The last time I [wrote at length](https://gkeenan.co/writing/what-is-happening) about my mental state in an attempt to make sense of what was going on in the perilous shitstorm that is my brain, I managed to uncover a brief moment of optimism:
+The last time I [wrote at length](https://gkeenan.co/avgb/what-is-happening/) about my mental state in an attempt to make sense of what was going on in the perilous shitstorm that is my brain, I managed to uncover a brief moment of optimism:
 
 > To be frank, I have no fucking clue where I'm going. I'm fumbling around in the dark. I'm taking things one day at a time. I can't rely on my brain to treat me well at any particular moment, but today... Today is the day I get this shit out of my head and be honest with myself that there's something I desperately need to overcome before I can ever hope to return to normalcy. I thought I was writing this to try and shed some light on what's been going on with me and this site for the past year or so, but I think I'm writing this now more to hold myself accountable during a period of lucidity. To publish it is to document the struggle. Hopefully I can look back on this somewhere down the line and see it as a turning point, even if I'm more convinced that this is but a brief respite before I reach the nadir.
 

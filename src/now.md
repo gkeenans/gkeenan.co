@@ -22,16 +22,22 @@ Cool? Cool.
 
 ### Hi
 
-Today is **November 2, 2024** and I have once again remembered that this page exists.
+Today is **November 29, 2024** and it has been a *rough* month.
 
 ### Watching
 
-I recently finished watching *Midnight Mass,* and I gotta say, I was absolutely blown away by it. I've been a Mike Flanagan fan (we call ourselves Fanagans in the Mike Flanagan Fan Club I just made up and I am the only member) for awhile, but had somehow overlooked this series. I was enraptured from episode one, and once Hamish Linklater started performing, I couldn't look away. Holy shit, what a show.
+This month, we've plowed through *Search Party.* Currently on season four and loving it. Can't believe I had never heard about it until very recently. 
+
+Logged a bunch of movies lately on [Letterboxd](https://letterboxd.com/gkeenan/). Feel free to check out my profile.
 
 ### Playing
 
-The *Monster Hunter Wilds* beta has been a blast and makes me want to play *World* or *Rise* more in anticipation. Otherwise, I started a new playthrough of *Dragon's Dogma 2* and that game still rules so hard.
+I've been enjoying *Echo Point Nova* quite a bit. Sort of a weird blend of Tribes and Titanfall. Fast, frenetic, smooth movement and combat.
+
+Also started Stalker 2, which made me want to revisit the older games in the series.
+
+Also also, I finally started *Stellar Blade* on PS5. Definitely got a style over substance vibe that permeates the entire experience. The combat is flashy and fun, but pretty shallow. It doesn't hold a candle to anything FromSoftware does.
 
 ### Okay, bye for now!
 
-Dinner is almost done and we're gonna watch *X* or *Pearl* tonight. Keep an eye on that [Letterboxd](https://letterboxd.com/gkeenan/) page, y'all.
+Katy and I decided to put off Thanksgiving cooking until today, so we're gonna get moving on that shortly. Just a nice little day for the two of us. She's taking the lead on this meal, and I'll take the lead on Christmas.

@@ -32,9 +32,9 @@ Logged a bunch of movies lately on [Letterboxd](https://letterboxd.com/gkeenan/)
 
 ### Playing
 
-I've been enjoying *Echo Point Nova* quite a bit. Sort of a weird blend of Tribes and Titanfall. Fast, frenetic, smooth movement and combat.
+I've been enjoying *Echo Point Nova* quite a bit. Sort of a fun blend of Tribes and Titanfall. Fast, frenetic, smooth movement and combat.
 
-Also started Stalker 2, which made me want to revisit the older games in the series.
+Also started *Stalker 2*, which made me want to revisit the older games in the series.
 
 Also also, I finally started *Stellar Blade* on PS5. Definitely got a style over substance vibe that permeates the entire experience. The combat is flashy and fun, but pretty shallow. It doesn't hold a candle to anything FromSoftware does.
 

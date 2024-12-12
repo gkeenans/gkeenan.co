@@ -40,7 +40,7 @@ After an uncharacteristic lull, a few games have come out recently that have sor
 
 *Stalker 2* — The vibes are so, so good. Unforgiving, bleak, but immensely rewarding for anyone who likes open worlds that encourage thoughtful exploration.
 
-*Cairn* — Right now, just a demo available on Steam (until December 19). No game I've played has ever captured the magic of rock climbing like this. It went from being something I was curious about to basically my most anticipated game of 2025. I've played this demo over and over and over. Can't wait to climb the whole mountain.
+*Cairn* — Right now, just a demo available (until December 19) on Steam. No game I've played has ever captured the magic of rock climbing like this. It went from being something I was curious about to basically my most anticipated game of 2025. I've played this demo over and over and over. Can't wait to climb the whole mountain.
 
 *Path of Exile 2* — This just came out in Early Access and I've been playing a ton of it with my wife. The couch co-op experience has been stellar, despite the fact that beta bugginess sometimes rears its ugly head.
 

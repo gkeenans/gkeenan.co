@@ -22,22 +22,30 @@ Cool? Cool.
 
 ### Hi
 
-Today is **November 29, 2024** and it has been a *rough* month.
+Today is **December 12, 2024** and my creative motivation is still in the dumps. I'm trying not to beat myself up too much about it, but I can feel the slump weighing on me. I'm sure, with time, things will right themselves, but in the meantime, it's difficult to see past this moment.
+
+Perhaps related to this, I decided today to [pierce my fucking nose](https://gkeenan.co/avgb/i-pierced-my-fucking-nose/) again. Once things heal up, I'll do a little double hoop action, but for now, [I've got two studs](https://social.lol/@keenan/113641181756534628).
 
 ### Watching
 
-This month, we've plowed through *Search Party.* Currently on season four and loving it. Can't believe I had never heard about it until very recently. 
+Still watching *Search Party.* Nearing the end of the series, but taking our time. It's great. 
 
-Logged a bunch of movies lately on [Letterboxd](https://letterboxd.com/gkeenan/). Feel free to check out my profile.
+I've also been enjoying the latest season of *Shrinking* and *What We do in the Shadows*. Oh, and *Day of the Jackal* has been solidly entertaining.
+
+I recently rewatched *Interstellar,* and it made me cry harder than any time before. Maybe I should go back to therapy and start unpacking that!
 
 ### Playing
 
-I've been enjoying *Echo Point Nova* quite a bit. Sort of a fun blend of Tribes and Titanfall. Fast, frenetic, smooth movement and combat.
+After an uncharacteristic lull, a few games have come out recently that have sort of taken over all of my attention. Here's a list:
 
-Also started *Stalker 2*, which made me want to revisit the older games in the series.
+*Stalker 2* — The vibes are so, so good. Unforgiving, bleak, but immensely rewarding for anyone who likes open worlds that encourage thoughtful exploration.
 
-Also also, I finally started *Stellar Blade* on PS5. Definitely got a style over substance vibe that permeates the entire experience. The combat is flashy and fun, but pretty shallow. It doesn't hold a candle to anything FromSoftware does.
+*Cairn* — Right now, just a demo available on Steam (until December 19). No game I've played has ever captured the magic of rock climbing like this. It went from being something I was curious about to basically my most anticipated game of 2025. I've played this demo over and over and over. Can't wait to climb the whole mountain.
+
+*Path of Exile 2* — This just came out in Early Access and I've been playing a ton of it with my wife. The couch co-op experience has been stellar, despite the fact that beta bugginess sometimes rears its ugly head.
+
+*Indiana Jones and the Great Circle* — Maybe the most pleasant surprise of the year? I wasn't expecting this to be any good, but it's honestly a remarkable feat. A game that manages to make sneaking around in first person an exhilarating adventure, and it is absolutely gorgeous to look at. What a great time!
 
 ### Okay, bye for now!
 
-Katy and I decided to put off Thanksgiving cooking until today, so we're gonna get moving on that shortly. Just a nice little day for the two of us. She's taking the lead on this meal, and I'll take the lead on Christmas.
+I want to write more. I do. I've got the drafts started, but I'm going to let my brain rest for a bit.

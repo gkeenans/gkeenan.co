@@ -22,6 +22,6 @@ Cool? Cool.
 
 ### Hi
 
-It is **January 13,2025** I am updating this page specifically so my footer will change the date when the site rebuilds.
+It is **January 13, 2025** I am updating this page specifically so my footer will change the date when the site rebuilds.
 
 Otherwise, not a lot going on. I've been watching a lot of [movies](https://letterboxd.com/gkeenan/), and playing some games, while trying to build up motivation to write more. SORRY, THAT'S JUST HOW THINGS ARE RIGHT NOW.

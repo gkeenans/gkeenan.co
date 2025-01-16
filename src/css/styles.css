@@ -204,6 +204,10 @@
     display: inline;
     list-style: none;
   }
+
+  sup {
+    line-height: 1;
+  }
   
   /* Format navigation */
 

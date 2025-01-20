@@ -6,9 +6,9 @@ date: 2023-07-26T00:02:11.000Z
 
 Hi, please listen to this:
 
-<iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1459223041&amp;show_artwork=true"></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/23F7lA8jbTE?si=Xwz1jNa4oVYn90ED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Quick, I don’t think it’s legit, and it could disappear at any moment because _Square Enix for some reason doesn’t want to put it on any streaming service for me to listen to on repeat?_[^1]
+Quick, I don’t think it’s legit, and it could disappear at any moment because _Square Enix for some reason doesn’t want to put it on any streaming service for me to listen to on repeat?_[^1] ***(Update—1/20/2025: The song referenced in this post is the "Partitio, The Merchant" theme, which is now available, along with the rest of the Octopath Traveler II soundtrack, on most major streaming services. This happened awhile ago, but I just came back now to update the page due to a reader pointing out the original embed was finally cast into Hell.)*** 
 
 As Jason Schreier perfectly summed up in this [Tweet](https://twitter.com/jasonschreier/status/1625959722120581120):
 

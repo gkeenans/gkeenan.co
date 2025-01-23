@@ -1,6 +1,6 @@
 ---
 permalink: "/avgb/my-method-for-perfect-pourover-coffee/index.html"
-title: My Method for Perfect Pourover Coffee
+title: My method for perfect pourover coffee
 date: 2025-01-23T15:00:00.000Z
 ---
 

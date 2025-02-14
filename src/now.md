@@ -22,6 +22,28 @@ Cool? Cool.
 
 ### Hi
 
-It is **January 13, 2025**. I am updating this page specifically so my footer will change the date when the site rebuilds.
+It is **February 14, 2025**, and I am feeling *romantic.*
 
-Otherwise, not a lot going on. I've been watching a lot of [movies](https://letterboxd.com/gkeenan/), and playing some games, while trying to build up motivation to write more. SORRY, THAT'S JUST HOW THINGS ARE RIGHT NOW.
+Not really. Today is just a day and that is fine. I just saw that it had been a month since I updated this page, and I thought I'd do something at 8:54am, because sleep was no longer an option.
+
+### Gaming
+
+Been losing my mind over how good *Kingdom Come Deliverance 2* is. I'm nearly 40 hours in, and feel like I've barely scratched the surface. It's been a minute since I lost myself to an RPG like this. Not since *Dragon's Dogma 2*, I suppose...
+
+I've always been playing *SnowRunner* a lot again, but this time dipping my toes into co-op with my friends, rather than solo. I've always had this one installed for the last seven years, and I am always delighted to get back into it. The co-op experience makes it extra special. It's hard to deny just how good this one is.
+
+I finished *Indiana Jones and the Great Circle* and it was great. Like the circle. It was so good, my enthusiasm rubbed off on Katy and she started playing it as well, and I've been having a good time watching her give it a go.
+
+### Other stuff
+
+Been watching a lot of movies. Revisiting some I haven't seen in awhile (*The Fugitive* still rules). Going out of my way to watch older films I never saw before (*The Godfather* and *The Godfather Part 2*—turns out: pretty good!).
+
+Glad Severance is back. It's great.
+
+Otherwise, I'm trying to keep my head above water at the moment. Seems like my anxiety is primed to cause me to spiral at any moment. I've largely retreated from Bluesky. I've ditched a bunch of podcasts I used to listen to. I'm trying not to read the news. Everything feels like a mess and I'm scared.
+
+I want to write more, but I also just want to... be.
+
+### Okay, bye
+
+[Here is a video](https://www.youtube.com/watch?v=JA8NQ9bOn7Q) I made recently that I thought was funny. Enjoy.

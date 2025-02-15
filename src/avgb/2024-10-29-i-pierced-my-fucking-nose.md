@@ -10,7 +10,7 @@ Is this worth a blog post? I dunno, is anything? Is a blog a blog if I can't blo
 
 It's a funny sort of thing. Brains, I mean. I remember for so long I was staunchly opposed to tattoos... Until I got one, and then I wanted another. And now I've been chasing that high ever since, waiting for the perfect artist to introduce themselves to me so I can get my dream sleeve. It'll happen. One day.
 
-Same with piercings. Christ, I was such an dickhead about it to my ex, actually. She really wanted a nose ring and I was all "Yikes, ew" about it. Why did I think that? Why did I *care*? It was none of my business! But also, *why* did I *care?* What was it about the thought of a piercing that made me squirm? I wish I had the good goddamn sense back then to realize how frail and worthless opinions are.
+Same with piercings. Christ, I was such a dickhead about it to my ex, actually. She really wanted a nose ring and I was all "Yikes, ew" about it. Why did I think that? Why did I *care*? It was none of my business! But also, *why* did I *care?* What was it about the thought of a piercing that made me squirm? I wish I had the good goddamn sense back then to realize how frail and worthless opinions are.
 
 Anyway, we split up over seven years ago at this point, and the last time I saw a photo of her, you better believe she had her nose pierced, and I just have to say: "Fucking *good for you.*" Don't let the bastards tell you what to do with your body. I shouldn't have said anything; it was stupid and wrong. 
 

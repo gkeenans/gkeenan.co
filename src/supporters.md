@@ -33,6 +33,7 @@ Folks who currently donate to me via my [Ko-fi membership](https://ko-fi.com/gke
 
 Folks who have previously donated on a one-off basis or [purchased a photograph](https://ko-fi.com/gkeenan/shop) or who used to be a member but for whatever reason decided to cancel (no judgement—I appreciate you!):
 
+[William Fairaday](https://www.fairaday.com/)
 [Matt Birchler](https://birchtree.me)
 George Harth
 Emily Moran Barwick

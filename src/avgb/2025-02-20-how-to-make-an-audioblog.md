@@ -66,7 +66,7 @@ I find this to be unbelievably helpful. I read my words aloud all the time. I re
 
 Reading your words aloud helps you practice and can also generally makes the editing process better. The ol' one two word punch, as my dad never said.
 
-Also, **Read more slowly than you think you should.**
+Also, **read more slowly than you think you should.**
 
 A common pitfall for people when reading aloud is they try to read too quickly. Whether it's nerves, or they hate the sound of their voice, or they're feeling so comfortable with the words they've written that they just kinda fly through without thinking about it.
 

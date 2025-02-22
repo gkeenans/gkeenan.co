@@ -21,7 +21,7 @@ _Sorry, what the fuck?_
 
 Yeah, that's basically what I said when a colleague approached me to tell the tale of how he came in for his shift that morning, only to discover that he and a number of our other colleagues were unexpectedly witness to a ritual aimed at ridding our store of the spirits hindering our ability to hit our revenue goal. Apparently an actual animal carcass was involved... Look, all I know for sure is that some employees got upset and complained, there was an internal investigation by Corporate, and eventually that manager was offered another role in a strange state _far away from us_.
 
-I worked for Apple over a decade ago, during what many current and former employees have described as the end of the Golden Years of Apple Retail. That magical era when the company purportedly cared about nothing more than providing a incredible experience to its employees and its customers.
+I worked for Apple over a decade ago, during what many current and former employees have described as the end of the Golden Years of Apple Retail. That magical era when the company purportedly cared about nothing more than providing an incredible experience to its employees and its customers.
 
 Apple's Credo, given to all retail employees in a little booklet that fit in the back of our lanyards, led with the simple phrase: Enriching lives. The first sentence inside that booklet read: "At Apple our most important resource, our soul, is our people." I would go on to repeat that phrase verbatim, with no hint of irony, to hundreds of employees. The Credo was how I lived for three years, through the good times and the not-so-good times. I embodied its words—I infused them into every training session I ran. They informed how I made decisions.
 

@@ -35,7 +35,7 @@ I want to make more podcasts with interesting people;
 
 ###### 05.15.2024
 
-I want to understand who the fuck I am for once;
+I want to understand who the hell I am for once;
 
 ###### 06.06.2024
 
@@ -49,8 +49,12 @@ I want to live in the [Sticktwist bread video](https://vimeo.com/44654185);
 
 ###### 08.09.2024
 
-~~I want to finish this fucking essay!~~;
+~~I want to finish this essay!~~;
 
 ###### 10.05.2024
 
 I want to make people feel something, anything;
+
+###### 03.07.2025
+
+I want to get *the fuck outta here*;

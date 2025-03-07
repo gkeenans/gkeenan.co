@@ -27,8 +27,6 @@ Eventually, I became exhausted with getting in my own way. So now I’m working 
 
 I’m excited to meet myself again.
 
-Anyway, I’m originally from Chicago, but my wife and I moved to the Louisville-ish area. We have a dog. Her name is Olive. She’s amazing. 
-
 If you’re here, you’ve probably seen my photos, my VO work, podcasts, writing, and various other creative output. I’m fully committed to embracing my innate desire to try things that interest me, and ignore the inner-censor that says, “No. Specialize. Commit. You’re too messy. Too disorganized. No one will fucking like you.”
 
 I don’t care. I’m not afraid to be seen trying (anymore).<br><br>

@@ -35,7 +35,7 @@ Like Walt Whitman once said:
 
 > Hi. I'm Walt Whitman.
 
-I think what he meant by that was that, yeah, he was *Walt Whitman*, but he was also, just, like, Walt Whitman. Y'know? Just a guy bein' a dude sittin' in a forest. Writin' poems. 
+I think what he meant by that was that, yeah, he was *Walt Whitman*, but he was also, just, like, Walt Whitman. Y'know? Just a guy bein' a dude sittin' in a forest. Writin' poems 'n' shit. 
 
 Point is, we're all just lil' guys. So much more than what we appear to be. And, personally, after years of whittling myself down into an empty shell devoid of passion or anything even resembling an identity, I decided that I’m not afraid to be seen trying anymore.<br><br>
 

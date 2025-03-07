@@ -75,7 +75,7 @@ Turns out _Lethal Company_ is a [great and silly time](https://youtu.be/ueE_Aa-9
 
 I stumbled upon [Songs of Syx](https://store.steampowered.com/app/1162750/Songs_of_Syx/), and was intrigued to see that it was a city-builder that seems to combine the approachability (lol) of [_RimWorld_](https://store.steampowered.com/app/294100/RimWorld/) with the scope of [_Dwarf Fortress_](https://store.steampowered.com/app/975370/Dwarf_Fortress/). The demo available on Steam is an **unlimited, full-version** of a previous build of the game, which is just absolutely wild to me. I played the demo for 30 minutes. Felt lost. Turned it off. Read some Steam reviews. Turned it back on. Played the tutorial again. Felt lost. Turned it off. Read some discussions on Steam. Turned it back on. Played for a couple hours. It clicked. Game is _dense, but gooood._
 
-### TikTok gave me Autism: The Politics of Self Diagnosis
+### TikTok Gave Me Autism: The Politics of Self Diagnosis
 
 The very funny title of a [video essay](https://youtu.be/x4ieMzbXiRA?si=2iTG_Y8lSytZtk1T) that was not only humorous, but extremely thoughtful and informative. This helped shift my perspective on a number of things, including MY OWN SENSE OF SELF.
 

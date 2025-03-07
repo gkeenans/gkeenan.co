@@ -21,15 +21,23 @@ That sounds dramatic, I know. Bear with me.
 
 For 12 years I worked in corporate tech. I was good at what I did (writing, marketing, facilitation, leadership, learning & development), but ultimately realized after being burnt out for an inordinate amount of time that something had to change before I lost my mind.
 
-In the process of recuperating, I realized that I’ve neglected the artistic side of me—the imaginative, curious child who was never afraid to try new things and play with ideas they conjured up. Somewhere along the way of building a “career,” I let fear dictate how I lived my life. I stopped taking chances. I found new ways to say “no” to myself.
+In the process of recuperating, I discovered that I had neglected the artistic side of me—the imaginative, curious child who was never afraid to try new things and play with ideas they conjured up. Turns out, somewhere along the way of building a “career,” I let fear dictate how I lived my life. I stopped taking chances. I found new ways to say “no” to myself.
 
 Eventually, I became exhausted with getting in my own way. So now I’m working to reconnect with curiosity, with imagination, with joy. 
 
 I’m excited to meet myself again.
 
-If you’re here, you’ve probably seen my photos, my VO work, podcasts, writing, and various other creative output. I’m fully committed to embracing my innate desire to try things that interest me, and ignore the inner-censor that says, “No. Specialize. Commit. You’re too messy. Too disorganized. No one will fucking like you.”
+If you’re here, you’ve probably seen my writing, or my photos, or my VO work, or podcasts, or various other creative output. Some would say that I stretch myself too thin. But I’m fully committed to embracing my innate desire to try things that interest me, and ignore the inner-censor that says, “No. Specialize. Commit. You’re too messy. Too disorganized. How could anyone possibly like you?” 
 
-I don’t care. I’m not afraid to be seen trying (anymore).<br><br>
+I don't need narrative cohesion to be a fucking person.
+
+Like Walt Whitman once said:
+
+> Hi. I'm Walt Whitman.
+
+I think what he meant by that was that, yeah, he was *Walt Whitman*, but he was also, just, like, Walt Whitman. Y'know? Just a guy bein' a dude sittin' in a forest. Writin' poems. 
+
+Point is, we're all just lil' guys. So much more than what we appear to be. And, personally, after years of whittling myself down into an empty shell devoid of passion or anything even resembling an identity, I decided that I’m not afraid to be seen trying anymore.<br><br>
 
 <img id="aboutselfie" src="/assets/img/self.jpeg" alt="Self-portrait of a masculine-presenting person taking a photo with an iPhone in a mirror. Half of their face is divided by a bezel in the mirror, refracting their face in a disconcerting way. They are wearing a black army cap and a pink henley t-shirt. Their facial hair is a dark, full mustache with a small patch underneath their bottom lip. A small glimpse of dark blue nail polish can be seen on a few of their fingers.">
 

@@ -34,7 +34,7 @@ ADDITIONALLY, I'm over 30 hours into *Monster Hunter Wilds* and this is the one 
 
 I look at my list of blog posts and think, "Hmm. How do I help people understand what they're getting into? There's very little thematic cohesion and these titles, while delightful, might instill more choice paralysis than anything."
 
-Anyway, I'm considering of reworking my home page and also adding a new page that serves as a way to guide people to my writing, old and new pieces alike.
+Anyway, I'm considering reworking my home page and also adding a new page that serves as a way to guide people to my writing, old and new pieces alike.
 
 ### Okay, bye
 

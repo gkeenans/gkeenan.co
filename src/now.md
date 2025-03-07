@@ -22,28 +22,20 @@ Cool? Cool.
 
 ### Hi
 
-It is **February 14, 2025**, and I am feeling *romantic.*
-
-Not really. Today is just a day and that is fine. I just saw that it had been a month since I updated this page, and I thought I'd do something at 8:54am, because sleep was no longer an option.
+It is **March 7, 2025**, and—wait, one sec, let me open up Apple Music and figure out what song to play—I am listening to "Synesthesia" by Andrew McMahon in the Wilderness. Terrific.
 
 ### Gaming
 
-Been losing my mind over how good *Kingdom Come Deliverance 2* is. I'm nearly 40 hours in, and feel like I've barely scratched the surface. It's been a minute since I lost myself to an RPG like this. Not since *Dragon's Dogma 2*, I suppose...
+I am coming up on 83 hours played in *Kingdom Come Deliverance 2* and I am not even close to the end, as far as I can tell. I can't remember the last time I played a game that was this engrossing. Every time I boot it up, all I want to do is savor the experience. It reminds me of how games felt when I was a kid, when my imagination would take over and create possibilities that existed only in my mind. It's truly an all-timer for me, no hyperbole.
 
-I've always been playing *SnowRunner* a lot again, but this time dipping my toes into co-op with my friends, rather than solo. I've always had this one installed for the last seven years, and I am always delighted to get back into it. The co-op experience makes it extra special. It's hard to deny just how good this one is.
+ADDITIONALLY, I'm over 30 hours into *Monster Hunter Wilds* and this is the one that finally made *Monster Hunter* truly click for me. I love it so much I want to go back to the old games with my newfound appreciation and see if that carries over. It's so, so good. Some of the most satisfying and exhilarating combat I've ever experienced.
 
-I finished *Indiana Jones and the Great Circle* and it was great. Like the circle. It was so good, my enthusiasm rubbed off on Katy and she started playing it as well, and I've been having a good time watching her give it a go.
+### Website stuff
 
-### Other stuff
+I look at my list of blog posts and think, "Hmm. How do I help people understand what they're getting into? There's very little thematic cohesion and these titles, while delightful, might instill more choice paralysis than anything."
 
-Been watching a lot of movies. Revisiting some I haven't seen in awhile (*The Fugitive* still rules). Going out of my way to watch older films I never saw before (*The Godfather* and *The Godfather Part 2*—turns out: pretty good!).
-
-Glad Severance is back. It's great.
-
-Otherwise, I'm trying to keep my head above water at the moment. Seems like my anxiety is primed to cause me to spiral at any moment. I've largely retreated from Bluesky. I've ditched a bunch of podcasts I used to listen to. I'm trying not to read the news. Everything feels like a mess and I'm scared.
-
-I want to write more, but I also just want to... be.
+Anyway, I'm considering of reworking my home page and also adding a new page that serves as a way to guide people to my writing, old and new pieces alike.
 
 ### Okay, bye
 
-[Here is a video](https://www.youtube.com/watch?v=JA8NQ9bOn7Q) I made recently that I thought was funny. Enjoy.
+The song playing now is "Transliterator" by DeVotchKa. (Okay I forgot to publish this so now the song that's playing is "I Wanna Get Better" by Bleachers. OKAY PUBLISHING NOW BYE.)

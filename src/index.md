@@ -5,11 +5,7 @@ layout: base.njk
 
 ## Hello. I'm Keenan.
 
-### I'm a visual and verbal artist based near Louisville. 
-
-### I worked in corporate tech until my brain broke. 
-
-### Now I'm focused on creating.
+### I'm a visual and verbal artist. I worked in tech until my brain broke. Now I'm focused on creating.
 
 <br>
 

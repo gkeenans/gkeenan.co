@@ -33,7 +33,7 @@ I don't need narrative cohesion to be a fucking person.
 
 Like Walt Whitman once said:
 
-> Hi. I'm Walt Whitman.
+> Hi, I'm Walt Whitman.
 
 I think what he meant by that was that, yeah, he was *Walt Whitman*, but he was also, just, like, Walt Whitman. Y'know? Just a guy bein' a dude sittin' in a forest. Writin' poems 'n' shit. 
 

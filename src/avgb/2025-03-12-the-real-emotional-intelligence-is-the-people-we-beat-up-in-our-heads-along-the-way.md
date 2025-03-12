@@ -16,7 +16,7 @@ The scenario was, invariably, as follows: I'd be walking on the sidewalk or down
 
 You know... Justice! 
 
-And, naturally, in this fantasy, I would emerge unscathed—physically *and* emotionally—because, implausibly, a secret Batman lived deep within me, ready to step in and commandeer my body to complete his dark objective when it was needed the most: in the unlikely event I became embroiled in a physical altercation.
+And, naturally, in this fantasy, I would emerge unscathed—physically *and* emotionally—because I suppose a secret Batman lived deep within me, ready to step in and commandeer my body to complete his dark objective when it was needed the most: in the unlikely event I became embroiled in a physical altercation.
 
 Because, like, let's be real for second? I've never been punched. Never thrown one. And if I was ever involved in a situation where either of those things happened, I would *probably fucking die.* I'm not being self-deprecating for comedic effect. I think anyone who has ever met me would put money on *literally anyone else* winning a fist fight in which I was involved.
 

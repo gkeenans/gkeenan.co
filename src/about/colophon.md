@@ -12,7 +12,7 @@ I learned how to use VS Code, which was a wild experience. I did try Nova on my 
 
 I built the site using [Eleventy](https://11ty.dev). It's hosted on Netlify.
 
-I built it using HTML and CSS. There's a .js config file in the directory. Does that mean I did Javascript? Who knows! I copied and pasted some stuff in there and it seemed to work.
+I built it using HTML and CSS. There's a .js config file in the directory. Does that mean I did Javascript? Who knows! I copied and pasted some stuff in there and it seemed to work. Peruse all my mistakes in [Github](https://github.com/gkeenans/gkeenan.co)!
 
 Some of the pages were written in Markdown. Some were written in HTML. There's no rhyme or reason, it was mostly just based on how I was feeling in that moment.[^1]
 

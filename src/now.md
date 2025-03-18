@@ -22,20 +22,22 @@ Cool? Cool.
 
 ### Hi
 
-It is **March 7, 2025**, and—wait, one sec, let me open up Apple Music and figure out what song to play—I am listening to "Synesthesia" by Andrew McMahon in the Wilderness. Terrific.
+It is **March 18, 2025**, and the song that is playing right now is "The Fox" by Niki & The Dove.
 
 ### Gaming
 
-I am coming up on 83 hours played in *Kingdom Come Deliverance 2* and I am not even close to the end, as far as I can tell. I can't remember the last time I played a game that was this engrossing. Every time I boot it up, all I want to do is savor the experience. It reminds me of how games felt when I was a kid, when my imagination would take over and create possibilities that existed only in my mind. It's truly an all-timer for me, no hyperbole.
+While I haven't given up on _Kingdom Come Deliverance 2_ by any means, I will say that my progress has been, uh, _hindered_ by the existence of _Monster Hunter Wilds_. I am starting to slow down the latter, so I am looking forward to returning to the former, which I still believe is going to be HARD TO TOP this year.
 
-ADDITIONALLY, I'm over 30 hours into *Monster Hunter Wilds* and this is the one that finally made *Monster Hunter* truly click for me. I love it so much I want to go back to the old games with my newfound appreciation and see if that carries over. It's so, so good. Some of the most satisfying and exhilarating combat I've ever experienced.
+### Reading
 
-### Website stuff
+Oh fuck, I'm reading a book? I decided to give [Daredevil: Born Again](https://bookshop.org/p/books/daredevil-born-again-marvel-premier-collection-frank-miller/y5yXWJgTu7FzZ4h2?ean=9781302965983&next=t) a shot. I was never a big comic person, but I've always enjoyed Daredevil as a character, so after I started rewatching the Netflix series, I wanted to take a peek at a big source of inspiration for that show.
 
-I look at my list of blog posts and think, "Hmm. How do I help people understand what they're getting into? There's very little thematic cohesion and these titles, while delightful, might instill more choice paralysis than anything."
+Anyway, it's quite good!
 
-Anyway, I'm considering reworking my home page and also adding a new page that serves as a way to guide people to my writing, old and new pieces alike.
+### Other stuff
+
+I was featured on Manu's _[People & Blogs](https://manuelmoreale.com/pb-keenan)_ recently. I had a lot of fun with it. Maybe you will, too, I dunno, I'm not your mom!
 
 ### Okay, bye
 
-The song playing now is "Transliterator" by DeVotchKa. (Okay I forgot to publish this so now the song that's playing is "I Wanna Get Better" by Bleachers. OKAY PUBLISHING NOW BYE.)
+The song playing now is "Hard Times" by Paramore.

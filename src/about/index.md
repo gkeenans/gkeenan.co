@@ -10,6 +10,8 @@ layout: base.njk
         <li><a href="/about/colophon">Colophon</a></li>
         <li><b>|</b></li>
         <li><a href="/about/contact">Contact</a></li>
+        <li><b>|</b></li>
+        <li><a href="/about/elsewhere">Elsewhere</a></li>
     </ul>
 </nav>
 

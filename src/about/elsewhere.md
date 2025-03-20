@@ -4,7 +4,7 @@ layout: base.njk
 permalink: "/about/elsewhere/index.html"
 ---
 
-## Here are some other places you can find me, if you're into that sorta thing
+## Here are some other places you can find me, if you're into that sorta thing.
 
 ### Publications
 

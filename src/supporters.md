@@ -37,7 +37,7 @@ George Harth
 Folks who have previously donated on a one-off basis or [purchased a photograph](https://ko-fi.com/gkeenan/shop) or who used to be a member but for whatever reason decided to cancel (no judgement—I appreciate you!):
 
 [Matt Birchler](https://birchtree.me)
-Emily Moran Barwick
+[Emily Moran Barwick](https://fromemily.com)
 Shawn McCullough
 Justin Mack
 [Nicolas Solerieu](https://slrncl.com/)

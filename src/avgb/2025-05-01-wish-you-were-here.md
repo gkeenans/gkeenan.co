@@ -49,6 +49,7 @@ Kat left after high school, and as life often decides, we lost touch. Before she
 The sound of my search is the swell of cellos. The crunchy, thudding march of a bass drum. The gentle pulse of an ethereal vibrato as it trails off almost every other word. Almost as if each word aches to say, but it would ache even more to hold it in.
 
 *How I wish, how I wish you were here*
+*We're just two lost souls swimming in a fish bowl year after year* 
 *Running over the same old ground. How we found the same old fears*
 *Wish you were here*
 

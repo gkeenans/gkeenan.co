@@ -16,7 +16,7 @@ Example: when I was doing the dishes the other day, I was once again drawn to ou
 
 You seem so *happy.*
 
-If I were to name it, I would name it Curvy, because of how it is.[^2] But I have committed so long to not carrying on the wisdom of my elders, and I don't think I can bring myself to deviate now. And, in fairness, my elders were responsible for Ronald Reagan, so I don't think I'm way off base here.
+If I *were* to name it, I would go with "Curvy," because of how it is.[^2] But I have committed so long to not carrying on the wisdom of my elders, and I don't think I can bring myself to deviate now. And, in fairness, my elders were responsible for Ronald Reagan, so I don't think I'm way off base here.
 
 But with that defiance comes wonder. Is there a life I miss by purposely avoiding what's in front of me? Does this conviction serve me beyond the personal satisfaction of adhering to some sick, spiteful dogma? I gain nothing by insisting, and yet I can't not.
 

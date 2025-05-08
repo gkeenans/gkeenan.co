@@ -4,7 +4,7 @@ title: Today, I am writing about a fork and, no, it's not a metaphor for anythin
 date: 2025-05-08T15:44:00.000Z
 ---
 
-I have held off writing about this, but I don't think I can, in good conscience, sit with this dark secret any longer: I don't name my forks. This is a fact that exists despite my growing up constantly bombarded by the classic adage, "A named fork tines times."[^1] Is there any axiom more significant to modern society? If so, I am not familiar with it. 
+I have held off writing about this, but I don't think I can, in good conscience, sit with this dark secret any longer: I don't name my forks. This is a fact that exists despite growing up constantly bombarded by the classic adage, "A named fork tines times."[^1] Is there any axiom more significant to modern society? If so, I am not familiar with it. 
 
 I understand the above admission might elicit strong feelings from deep within. You may even feel so compelled to reach out and try to convince me of the error of my ways, and I beg you: please do not do that. I have been chastised enough over the years for my willful disregard of cultural norms.
 
@@ -16,7 +16,7 @@ Example: when I was doing the dishes the other day, I was once again drawn to ou
 
 You seem so *happy.*
 
-If I *were* to name it, I would go with "Curvy," because of how it is.[^2] But I have committed so long to not carrying on the wisdom of my elders, and I don't think I can bring myself to deviate now. And, in fairness, my elders were responsible for Ronald Reagan, so I don't think I'm way off base here.
+If I *were* to name it, I would go with "Curvy McBenderson," because of how it is.[^2] But I have committed so long to not carrying on the wisdom of my elders, and I don't think I can bring myself to deviate now. And, in fairness, my elders were responsible for Ronald Reagan, so I don't think I'm way off base here.
 
 But with that defiance comes wonder. Is there a life I miss by purposely avoiding what's in front of me? Does this conviction serve me beyond the personal satisfaction of adhering to some sick, spiteful dogma? I gain nothing by insisting, and yet I can't not.
 

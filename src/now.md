@@ -40,7 +40,7 @@ This year, I decided to read a few graphic novels. I read and enjoyed all of the
 
 - *Daredevil: Born Again*
 - *Batman: Year One*
-- *The Matt Fraction run of Hawkeye*
+- The Matt Fraction run of *Hawkeye*
 
 Now I am currently reading *Fluent Forever* by Gabriel Wyner to help my ongoing quest to learn German.
 

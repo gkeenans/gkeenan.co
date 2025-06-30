@@ -37,6 +37,6 @@ In a previous life I thought I wanted to make video essays, but it turns out I *
 
 [1]: https://glass.photo/keenan
 [2]: /vo
-[3]: /avgab/
+[3]: /podcasts/
 [5]: https://www.youtube.com/@snakebeefalo
 [6]: /avgb

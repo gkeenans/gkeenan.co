@@ -22,22 +22,32 @@ Cool? Cool.
 
 ### Hi
 
-It is **March 18, 2025**, and the song that is playing right now is "The Fox" by Niki & The Dove.
+Lmao, it is **June 30, 2025**, and the last time I update this page was in March. Ope!
 
 ### Gaming
 
-While I haven't given up on _Kingdom Come Deliverance 2_ by any means, I will say that my progress has been, uh, _hindered_ by the existence of _Monster Hunter Wilds_. I am starting to slow down the latter, so I am looking forward to returning to the former, which I still believe is going to be HARD TO TOP this year.
+In the last few months I have played a couple *absolute bangers*.
+
+I finished *Kingdom Come Deliverance 2* and now I'm considering playing through it again. It's incredible.
+
+I played *Monster Hunter Wilds* and *Blue Prince* and *Clair Obscur: Expedition 33* and they are all experiences I'll be thinking about for a long, long time. Holy shit, maybe I should just write a whole post about 2025's killer video games so far.
+
+Anyway, now I am neck deep into *Death Stranding 2* and—wow, shock, surprise, awe—it rules hard.
 
 ### Reading
 
-Oh fuck, I'm reading a book? I decided to give [Daredevil: Born Again](https://bookshop.org/p/books/daredevil-born-again-marvel-premier-collection-frank-miller/y5yXWJgTu7FzZ4h2?ean=9781302965983&next=t) a shot. I was never a big comic person, but I've always enjoyed Daredevil as a character, so after I started rewatching the Netflix series, I wanted to take a peek at a big source of inspiration for that show.
+This year, I decided to read a few graphic novels. I read and enjoyed all of these:
 
-Anyway, it's quite good!
+- *Daredevil: Born Again*
+- *Batman: Year One*
+- *The Matt Fraction run of Hawkeye*
+
+Now I am currently reading *Fluent Forever* by Gabriel Wyner to help my ongoing quest to learn German.
 
 ### Other stuff
 
-I was featured on Manu's _[People & Blogs](https://manuelmoreale.com/pb-keenan)_ recently. I had a lot of fun with it. Maybe you will, too, I dunno, I'm not your mom!
+I guess the big news is that I started a new podcast??? It's been a couple months in the making, and probably one of the reasons I've been less website-focused. Anyway, it's called *Friendship Material* and it's very nice. You can read more about it (and subscribe) on the [brand new page I built](https://gkeenan.co/podcasts/). Fancy!
 
 ### Okay, bye
 
-The song playing now is "Hard Times" by Paramore.
+The song playing now is "Breathing the Same Air" by Petey USA.

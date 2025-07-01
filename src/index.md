@@ -17,13 +17,13 @@ For example:
 
 I currently write a very good blog, A Very Good Blog. It's very good. I think you'll like it.
 
-### [Podcasts][3]
-
-I like my voice enough that I have convinced myself that talking into a microphone (unpaid) is still worthwhile.
-
 ### [Photography][1]
 
 My photography is often minimal, abstract, and black & white. But also sometimes not!
+
+### [Podcasts][3]
+
+I like my voice enough that I have convinced myself that talking into a microphone (unpaid) is still worthwhile.
 
 ### [Voice acting][2]
    

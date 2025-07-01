@@ -16,7 +16,7 @@ A popular refrain for the moment: "Pursuing joy is an act of rebellion." It's ha
 
 So I choose joy. I rebel. I decide when enough is enough. No one gets to have autonomy over my ability to do what's right for me. I pick my battles every single day in the hopes that I make it through this unscathed. I focus on the things I can control. I make things. I choose joy. I alone can't save the world, but I can make living in it a little bit more bearable for the people around me. Anything I do with that in mind is worth it.
 
-I get disappointed by my inability to stick with a project. That familiar gnawing, that voice telling me that I'm stretching myself too thin. *We were starting to hit a groove,* my brain says. *Now you want to write a screenplay? Now you want to take a sewing class? Now you want to start a podcast? What about the writing? Have you no shame?* So much, Brain.[^3] So much.
+I am disappointed by my inability to stick with a project. That familiar gnawing, that voice telling me that I'm stretching myself too thin. *We were starting to hit a groove,* my brain says. *Now you want to write a screenplay? Now you want to take a sewing class? Now you want to start a podcast? What about the writing? Have you no shame?* So much, Brain.[^3] So much.
 
 I am rejuvenated by the flurry of new creative energy. I made a new friend. I made a new friend in the midst of some of the most overwhelming loneliness I've felt in my life. Just months ago I was worried that I'm too old to even make them anymore. And *poof!* Now here she is. [And *poof!* Now here we are](https://friendship-material.simplecast.com/). Something new. Something fun. Something nice. A bit of joy. A bit of making the world a bit better.
 

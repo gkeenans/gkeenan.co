@@ -29,6 +29,7 @@ Folks who currently donate to me via my [Ko-fi membership](https://ko-fi.com/gke
 [William Fairaday](https://www.fairaday.com/)
 [Annie Mueller](https://anniemueller.com/)
 George Harth
+[Nick Simson](https://www.nicksimson.com/)
 
 <br>
 
@@ -44,7 +45,6 @@ Justin Mack
 John Cleary
 [Dion](https://diondiondion.com)
 Shawn Michaels
-[Nick Simson](https://www.nicksimson.com/)
 [Kevin Humdrum](https://humdrum.me/)
 [Benjamin Bouvier](https://bouvier.cc/)
 [Ryan Trimble](https://ryantrimble.com/)

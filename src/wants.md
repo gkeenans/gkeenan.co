@@ -31,7 +31,7 @@ I want to inspire people (not machines) to create;
 
 ###### 05.06.2024
 
-I want to make more podcasts with interesting people;
+I want to make more podcasts with interesting people;[^1]
 
 ###### 05.15.2024
 
@@ -49,7 +49,7 @@ I want to live in the [Sticktwist bread video](https://vimeo.com/44654185);
 
 ###### 08.09.2024
 
-~~I want to finish this essay!~~;
+I want to finish this essay!;[^2]
 
 ###### 10.05.2024
 
@@ -58,3 +58,12 @@ I want to make people feel something, anything;
 ###### 03.07.2025
 
 I want to get *the fuck outta here*;
+
+###### 07.21.2025
+
+Ich möchte fließend Deutsch sprechen;
+
+Ich möchte in Österreich leben;
+
+[^1]: Yay, [this exists](https://friendship-material.simplecast.com/) now.
+[^2]: [Done](https://gkeenan.co/avgb/ive-missed-sam-for-a-very-long-time-or-pick-your-battles/).

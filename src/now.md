@@ -30,7 +30,7 @@ I rolled credits on *Death Stranding 2* and it is bonkers, as was expected. Narr
 
 Gameplay-wise, though, it's a treat. So much so that even after my 45-50 hours spent focusing (mostly, except for some occasional detours) on the story, I've found myself dipping back in to build roads and monorails and complete deliveries while I listen to podcasts. Great game. Not my favorite of the year, but I enjoyed it quite a bit.
 
-Also been playing *Red Faction: Guerilla* for some reason. Shame we never got more of those.
+Also been playing *Red Faction: Guerilla* again for some reason. Shame we never got more of those.
 
 Also also, *PEAK* and *Wildgate* are both great games that get exponentially better the more friends you add.
 

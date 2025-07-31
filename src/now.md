@@ -38,7 +38,7 @@ Also also, *PEAK* and *Wildgate* are both great games that get exponentially bet
 
 For the past year or so, I've been learning German, and my focus began intensifying late last year after my wife received her Austrian citizenship. It intensified even further a few weeks ago when I started taking daily Lingoda courses as part of their two-month Super Sprint program. It's been a long time since I've poured myself into learning something so complex for so long, and my brain is kinda super fried. I'm having fun (in between bouts of frustration and despair), and I can definitely tell I'm making progress, even if most of the progress I'm making is in reading comprehension. My ability to form sentences (especially under pressure, like in the classroom) is abysmal, and it's often demoralizing.
 
-But this is a marathon, not a sprint. I gotta remember that.
+But, big picture, this is all a marathon, not a sprint. I gotta remember that.
 
 ### Other stuff
 

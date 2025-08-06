@@ -97,7 +97,7 @@ I hadn't watched it since it originally aired back in 2021. For whatever reason 
 
 In my mind, *Station Eleven* was already my favorite show, just based on the initial viewing alone. Ever since watching it, I couldn't shake how it made me feel. How much I cried. How emotionally attached I became to the characters. How much it made me believe in the power of human connection, creativity, and love. Not only did this second viewing validate my original thoughts, it reinforced them in new and unexpected ways. The first go around, it took time to grow to love these characters and begin to understand what was happening, who they were, where their story would take them. The second time, with all of that knowledge firmly entrenched, seeing them all again was a reunion. I knew what was going to happen, so it gave me an opportunity to appreciate the characters for their warmth and their humor, their pain and their pleasure, the way they treat each other in the face of a truly incredible tragedy. Subtle things I missed the first time around were now on full display.
 
-It's a show about the perseverance of the human spirit, about how we found our people and ourselves. I often feel terribly alone, and this, more than anything else I've seen, makes me feel hope. Maybe one day, I, too, will find the people who appreciate me for me. The whole me.
+It's a show about the perseverance of the human spirit, about how we find our people and ourselves. I often feel terribly alone, and this, more than anything else I've seen, makes me feel hope. Maybe one day, I, too, will find the people who appreciate me for me. The whole me.
 
 When I finished the show, I had the foundation for an essay I knew I needed to write.
 

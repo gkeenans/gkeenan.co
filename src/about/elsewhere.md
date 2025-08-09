@@ -8,6 +8,9 @@ permalink: "/about/elsewhere/index.html"
 
 ### Publications
 
+*[Dense Discovery: Worthy Five](https://www.densediscovery.com/issues/346)* | Digital
+##### July 8, 2025
+
 *[People and Blogs: Keenan](https://manuelmoreale.com/pb-keenan)* | Digital
 ##### March 14, 2025
 
@@ -17,6 +20,9 @@ permalink: "/about/elsewhere/index.html"
 <br>
 
 ### Podcasts
+
+*[Foofaraw Frequencies](https://podcast.foofaraw.press/)*
+##### Since July 2025
 
 *[301 Presents: Building Better Worlds — Season 1, Episode 5: "Give a Damn"](https://podcasts.apple.com/us/podcast/s1e5-give-a-damn/id1191013986?i=1000591146087)*
 ##### December 23, 2022

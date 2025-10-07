@@ -22,28 +22,20 @@ Cool? Cool.
 
 ### Hi
 
-It is **July 30, 2025**. I am not listening to music. Okay, once I typed that I decided I wanted to listen to music, so now I am listening to "Synesthesia" by Andrew McMahon in the Woods.
+It is **October 7, 2025**. I am listening to "SPIDERS" by Lola Young.
 
 ### Gaming
 
-I rolled credits on *Death Stranding 2* and it is bonkers, as was expected. Narratively, it's a fucking mess and leans heavily into vibes—until it doesn't, and then it wants us to feel emotion it hasn't earned.
+Holy shit, so many great games in the last couple months. Can't believe how packed 2025 has been. Currently making my way through *Ghost of Yōtei*, *Silksong*, and *Dying Light: The Beast* while also still playing *Path of Exile 2* regularly.
 
-Gameplay-wise, though, it's a treat. So much so that even after my 45-50 hours spent focusing (mostly, except for some occasional detours) on the story, I've found myself dipping back in to build roads and monorails and complete deliveries while I listen to podcasts. Great game. Not my favorite of the year, but I enjoyed it quite a bit.
-
-Also been playing *Red Faction: Guerilla* again for some reason. Shame we never got more of those. No, I won't play *Red Faction: Armageddon*, you can't make me.
-
-Also also, *PEAK* and *Wildgate* are both great games that get exponentially better the more friends you add.
+Also recently played through *Baby Steps* and even [wrote a review on another website](https://www.savingcontent.com/2025/09/23/baby-steps-review/)! Spoilers alert: it was a delight.
 
 ### Learning
 
-For the past year or so, I've been learning German, and my focus began intensifying late last year after my wife received her Austrian citizenship. It intensified even further a few weeks ago when I started taking daily Lingoda courses as part of their two-month Super Sprint program. It's been a long time since I've poured myself into learning something so complex for so long, and my brain is kinda super fried. I'm having fun (in between bouts of frustration and despair), and I can definitely tell I'm making progress, even if most of the progress I'm making is in reading comprehension. My ability to form sentences (especially under pressure, like in the classroom) is abysmal, and it's often demoralizing.
-
-But, big picture, this is all a marathon, not a sprint. I gotta remember that.
+I finished the Lingoda Super Sprint and found out that I passed, which makes me eligible for an additional 60 classes. I ended up with an A2.1 certificate in German, and my goal is to finish the next batch of classes to earn the A2.2 certificate. Should still have some classes leftover to start working on B1.1 material.
 
 ### Other stuff
 
 Really pleased with the reception Halsted and I have received on the first few episodes of our new podcast, [*Friendship Material*](https://friendship-material.simplecast.com/). We've had so much fun getting to know each other and making something we both enjoy, so it means the world to hear that so many people connect with it. Big ups to all of you out there!
 
 ### Okay, bye
-
-I hope you, too, are slowly reclaiming your sanity bit by bit.

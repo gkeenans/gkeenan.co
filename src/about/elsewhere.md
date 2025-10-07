@@ -24,6 +24,9 @@ permalink: "/about/elsewhere/index.html"
 *[Foofaraw Frequencies](https://podcast.foofaraw.press/)*
 ##### Since July 2025
 
+*[Friendship Material](https://friendship-material.simplecast.com/episodes)*
+##### Since June 2025
+
 *[301 Presents: Building Better Worlds — Season 1, Episode 5: "Give a Damn"](https://podcasts.apple.com/us/podcast/s1e5-give-a-damn/id1191013986?i=1000591146087)*
 ##### December 23, 2022
 

@@ -26,7 +26,7 @@ It is **January 20, 2026**. I have headphones on, but no audio playing through t
 
 ### Gaming
 
-I don't know if I'll ever write a list of my favorite games of 2025, but here are my ten (largely unranked, but the games at the top I enjoyed more and think about more often than those toward the bottom):
+I don't know if I'll ever write a more in-depth list of my favorite games of 2025, but here are my ten (largely unranked, but the games at the top I enjoyed more and think about more often than those toward the bottom):
 
 1. Kingdom Come: Deliverance II
 2. Clair Obscur: Expedition 33

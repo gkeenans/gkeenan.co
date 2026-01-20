@@ -39,7 +39,7 @@ I don't know if I'll ever write a more in-depth list of my favorite games of 202
 9. Baby Steps
 10. Escape from Tarkov (which for the vast majority of my 1,500+ played hours was in its early access period over the last few years, but I did still manage to put a couple hundred hours in after its official 1.0 launch this past year)
 
-I'm currently playing **[REDACTED]** which I can talk about more soon. My wife and I also started playing DayZ, and we've been having a great time. I haven't had this much fun playing it since it was still just an ARMA II mod.
+I'm currently playing **[REDACTED]** which I can talk about more soon. My wife and I also started playing *DayZ*, and we've been having a great time. I haven't had this much fun playing it since it was still just an *ARMA II* mod.
 
 
 ### Movies

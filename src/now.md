@@ -22,20 +22,45 @@ Cool? Cool.
 
 ### Hi
 
-It is **October 7, 2025**. I am listening to "SPIDERS" by Lola Young.
+It is **January 20, 2026**. I have headphones on, but no audio playing through them. I got distracted pouring myself a bowl of cereal and never started playing anything and then I thought, "Oh I just remembed I have a Now page. Maybe I should update it." And so now I am writing out sentences in between bites of Grape Nuts, the irritating sounds of mastication amplified by the acoustic hellhole created by closed back headphones.
 
 ### Gaming
 
-Holy shit, so many great games in the last couple months. Can't believe how packed 2025 has been. Currently making my way through *Ghost of Yōtei*, *Silksong*, and *Dying Light: The Beast* while also still playing *Path of Exile 2* regularly.
+I don't know if I'll ever write a list of my favorite games of 2025, but here are my ten (largely unranked, but the games at the top I enjoyed more and think about more often than those toward the bottom):
 
-Also recently played through *Baby Steps* and even [wrote a review on another website](https://www.savingcontent.com/2025/09/23/baby-steps-review/)! Spoilers alert: it was a delight.
+1. Kingdom Come: Deliverance II
+2. Clair Obscur: Expedition 33
+3. Blue Prince
+4. Arc Raiders
+5. Monster Hunter Wilds
+6. Silksong
+7. Death Stranding 2
+8. Lumines Arise
+9. Baby Steps
+10. Escape from Tarkov (which for the vast majority of my 1,500+ played hours was in its early access period over the last few years, but I did still manage to put a couple hundred hours in after its official 1.0 launch this past year)
 
-### Learning
+I'm currently playing **[REDACTED]** which I can talk about more soon. My wife and I also started playing DayZ, and we've been having a great time. I haven't had this much fun playing it since it was still just an ARMA II mod.
 
-I finished the Lingoda Super Sprint and found out that I passed, which makes me eligible for an additional 60 classes. I ended up with an A2.1 certificate in German, and my goal is to finish the next batch of classes to earn the A2.2 certificate. Should still have some classes leftover to start working on B1.1 material.
+
+### Movies
+
+Similar to the games list, here's what I loved the most in 2025:
+
+1. Sentimental Value
+2. One Battle After Another
+3. Train Dreams
+4. Superman
+5. Sorry, Baby
+6. Black Bag
+7. Weapons
+8. Sinners
+9. Splitsville
+10. Predator: Badlands
+
+I imagine *Bugonia* or *28 Years Later* or *KPop Demon Hunters* could also appear somewhere on that list, depending on the day and my mood.
 
 ### Other stuff
 
-Really pleased with the reception Halsted and I have received on the first few episodes of our new podcast, [*Friendship Material*](https://friendship-material.simplecast.com/). We've had so much fun getting to know each other and making something we both enjoy, so it means the world to hear that so many people connect with it. Big ups to all of you out there!
+I dunno, it's cold out. I'm gonna vacuum today.
 
 ### Okay, bye

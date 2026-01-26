@@ -60,7 +60,7 @@ I enjoyed the original Hollow Knight. I know some people say it's their favorite
 I really enjoyed *Death Stranding*, and *Death Stranding 2* was more of that, refined, with a bonkers-yet-somehow-restrained narrative that felt (a bit) more parsable than what Hideo Kojima was doing with the first entry. It's hard to describe this game. It's beautiful. It's ambitious. It's got a killer soundtrack (starting to sense a theme here) with one of the greatest songs of the year that opens the game and sets the tone for what you're going to experience. Wander across the wasteland. Deliver packages. Help connect the world and rebuild humanity. A wonderfully meditative journey that connects you with other players in unique and beautiful ways.
 
 ##### 8. Lumines Arise
-FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK. This game is so good. I cried multiple times because of the music alone. Why did I do that? How is it so beautiful? How does the soundscape feel so responsive? Is this what doing drugs is like? Should I do drugs???[^4]
+FUUUUUUUUUUUCK. This game is so good. I cried multiple times because of the music alone. Why did I do that? How is it so beautiful? How does the soundscape feel so responsive? Is this what doing drugs is like? Should I do drugs???[^4]
 
 ##### 9. Baby Steps
 I was so excited for this game that I reviewed it on a completely different website. If you're a fan of what I do, [there's more where that came from](https://www.savingcontent.com/2025/09/23/baby-steps-review/).

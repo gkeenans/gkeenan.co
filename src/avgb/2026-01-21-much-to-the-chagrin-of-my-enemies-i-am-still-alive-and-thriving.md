@@ -108,7 +108,7 @@ I've been a Dan Trachtenberg believer since *10 Cloverfield Lane*,[^6] and this 
 ##### End of list
 Why do I do this to myself? Why didn't I put *28 Years Later* or *Bugonia* or *KPop Demon Hunters* on here? They're all good! Also I still haven't seen *Hamnet* and *No Other Choice* so who knows.
 
-### Sorry to bury the lede, but I'm moving to Europe???
+### <a id="europe"></a>Sorry to bury the lede, but I'm moving to Europe???
 
 It's true. Through a series of increasingly improbable-feeling events, my wife was granted Austrian citizenship, which has given us the opportunity to explore one of our dreams of living abroad. Initially, we were planning to move to Vienna, but—again, improbably—her job is allowing her to transfer to Warsaw, Poland. Once we sell our house, we'll settle there and start an exciting new adventure for our little family.
 

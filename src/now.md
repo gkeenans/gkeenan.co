@@ -22,8 +22,8 @@ Cool? Cool.
 
 ### Hi
 
-It is **January 21, 2026**. I am listening to the [Jusant soundtrack](https://dont-nod.com/en/jusant-ost-live-album-available-now/).
+It is **March 31, 2026**. I am listening to the the sound of my wife on a work call. Not on purpose, but because I got dialed into something on my computer and haven't put on my own music or anything.
 
-I updated this page yesterday as a way to put off writing a bigger post about 2025, but in doing so I just decided to write the [bigger post about 2025](http://gkeenan.co/avgb/much-to-the-chagrin-of-all-of-my-enemies-i-am-still-alive-and-thriving/) to put off writing a review for another site. So I'm going to just dust off my hands and disappear into a cloud of smoke :: poof ::
+I am updating this page as a test to see if I have successfully configured VS Code on my Mac. In preparation of my big move, I'll be using my Mac as my main computer, since I'm leaving my Windows machine behind.
 
 ### Okay, bye

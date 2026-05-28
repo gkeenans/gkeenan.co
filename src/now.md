@@ -22,8 +22,6 @@ Cool? Cool.
 
 ### Hi
 
-It is **March 31, 2026**. I am listening to the the sound of my wife on a work call. Not on purpose, but because I got dialed into something on my computer and haven't put on my own music or anything.
-
-I am updating this page as a test to see if I have successfully configured VS Code on my Mac. In preparation of my big move, I'll be using my Mac as my main computer, since I'm leaving my Windows machine behind.
+It is **May 28, 2026** and I am updating this page from a cruise ship in the middle of the Atlantic Ocean. That is fucking NUTS.
 
 ### Okay, bye

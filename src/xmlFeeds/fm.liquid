@@ -10,11 +10,11 @@ sitemap:
     <title>{{fm.title | xmlEscape}}</title>
     <link>{{site.url}}</link>
     <language>en-us</language>
-    <copyright>&#169; {{"now" | date: "%Y"}} {{fm.author}}</copyright>
+    <copyright>&#169; {{"now" | date: "%Y"}} {{fm.author | xmlEscape}}</copyright>
     <lastBuildDate>{{collections.fm | collectionLastUpdatedDate}}</lastBuildDate>
     <generator>Eleventy</generator>
     <description>{{fm.description | xmlEscape}}</description>
-    <itunes:author>{{fm.author}} </itunes:author>
+    <itunes:author>{{fm.author | xmlEscape}} </itunes:author>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="{{fm.channelImage | prepend: site.url}}" />
@@ -39,7 +39,7 @@ sitemap:
         {% if podcastEpisode.data.media.title %}
           <title>{{podcastEpisode.data.media.title | xmlEscape}}</title>
         {% else %}
-          <title>{{podcastEpisode.data.title}}</title>
+          <title>{{podcastEpisode.data.title | xmlEscape}}</title>
         {% endif %}
 
         {% if podcastEpisode.data.media.description %}
@@ -83,7 +83,7 @@ sitemap:
         {% endif %}       
 
         {% if podcastEpisode.data.media.summary %}
-            <itunes:summary>{{ podcastEpisode.data.media.summary }}</itunes:summary>
+            <itunes:summary>{{ podcastEpisode.data.media.summary | xmlEscape }}</itunes:summary>
         {% endif %}
 
         

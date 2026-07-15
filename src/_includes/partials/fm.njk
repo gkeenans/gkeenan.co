@@ -1,0 +1,11 @@
+{% for year, fm in collections.fm | groupby("data.year") | dictsort | reverse %}
+
+<ul class="audiobloglist">
+  {% for post in fm | reverse %}
+  <li>
+    <a href="{{ post.url }}">{{ post.data.media.title }}</a><br />
+    <p class="postlist-meta"><time>{{ post.date | postDate }}</time></p>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

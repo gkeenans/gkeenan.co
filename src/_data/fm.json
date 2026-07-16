@@ -1,0 +1,16 @@
+{
+    "title": "Friendship Material",
+    "description": "Keenan and Halsted met online and decided to become friends on one condition: That they podcast the experience. Listen along as two adult humans navigate anxiety and awkwardness, silliness and vulnerability, as they learn what it takes to build a friendship.",
+    "category": "Relationships",
+    "author": "Halsted & Keenan",
+    "channelImage": "https://avgb.b-cdn.net/fm/cover.jpg",
+    "owner": {
+      "name": "Keenan",
+      "email": "keenan@gkeenan.co"
+    },
+    "feedPath": "/fm/feed.xml",
+    "episode": {
+      "defaultDescription": "The latest episode of Friendship Material."
+    }
+  }
+

@@ -54,6 +54,12 @@ module.exports = function (eleventyConfig) {
     DateTime.fromJSDate(date).toLocaleString(DateTime.DATE_FULL),
   )
 
+  eleventyConfig.addFilter('sortCollectionByDate', (collection) => {
+    return collection.sort((a, b) => {
+      return b.data.media.date - a.data.media.date;
+    });
+  });
+
   // RSS plugin stuff
   eleventyConfig.addPlugin(feedPlugin, {
     type: "atom", // or "rss", "json"

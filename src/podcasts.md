@@ -30,7 +30,7 @@ I made a new friend, and one of the conditions of our continued friendship is th
 
 Get it on [Apple Podcasts](https://podcasts.apple.com/us/podcast/friendship-material/id1823544686) (or, again, your favorite podcast app or whatever—you know the drill I bet), or, like, [listen in your browser][2]? That's also an option!
 
-New episodes every other Monday.
+No new episodes.
 
 [1]: /avgab/
-[2]: https://friendship-material.simplecast.com/
+[2]: https://gkeenan.co/fm/

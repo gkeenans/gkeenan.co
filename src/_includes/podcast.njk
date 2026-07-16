@@ -3,5 +3,11 @@ layout: base.njk
 ---
 <h2 class="post-title">{{ media.title }}</h2>
 <p class="metadate">{{ media.date | postDate }}</p>
+
+<audio controls preload="none">
+    <source src="{{ media.content }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
 <article>{{ content | safe }}</article><br>
 <hr>

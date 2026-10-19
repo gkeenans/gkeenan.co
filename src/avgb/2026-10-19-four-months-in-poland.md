@@ -4,8 +4,7 @@ title: Four months in Poland
 date: 2026-10-19T15:40:00.000Z
 ---
 
-I’ve been meaning to write something, *anything*, about my 
-experiences over the last, like, five months–holy shit, it’s been nearly five months since I left the US. *Holy shit!* I thought just now, sitting on the couch, wondering what I should do with myself, since my wife is traveling for a few weeks and I have essentially nothing going on that doesn’t involve walking and feeding and cuddling with my dog... 
+I’ve been meaning to write something, *anything*, about my experiences over the last, like, five months–holy shit, it’s been nearly five months since I left the US. *Holy shit!* I thought just now, sitting on the couch, wondering what I should do with myself, since my wife is traveling for a few weeks and I have essentially nothing going on that doesn’t involve walking and feeding and cuddling with my dog... 
 
 *Today marks four months in Poland.* 
 

@@ -22,6 +22,8 @@ Cool? Cool.
 
 ### Hi
 
-It is **May 28, 2026** and I am updating this page from a cruise ship in the middle of the Atlantic Ocean. That is fucking NUTS.
+It is **October 23, 2026** and holy shit I've been <a href="https://gkeenan.co/avgb/four-months-in-poland/">living in Poland for four months</a>!
+
+Also I just made a page on my site <a href="https://gkeenan.co/coffee/">dedicated to my coffee obsession</a>. Enjoy!
 
 ### Okay, bye

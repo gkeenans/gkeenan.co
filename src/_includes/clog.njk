@@ -1,0 +1,12 @@
+---
+layout: base.njk
+---
+<h2 class="post-title">{{ title }}</h2>
+<p class="metadate">{{ date | postDate }}</p>
+<article>{{ content | safe }}</article><br>
+<hr>
+
+<div class="tip"><b><i>Do you have thoughts about this? <a href="mailto:keenan@gkeenan.co?subject=I read your clog and I have thoughts">Email</a> me about it or something, I dunno! No pressure!</b></i></div>    
+
+<hr><br>
+{% include './partials/paginationclog.njk' %}

@@ -2,7 +2,7 @@ const { DateTime } = require("luxon")
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 const escape = require('lodash.escape');
 const rfc822Date = require('rfc822-date');
-
+const pluginFilters = require("./config/filters/filters");
 
   // Markdown Footnotes stuff
 module.exports = function (eleventyConfig) {
@@ -59,6 +59,10 @@ module.exports = function (eleventyConfig) {
       return b.data.media.date - a.data.media.date;
     });
   });
+
+  // Post filters
+
+  eleventyConfig.addPlugin(pluginFilters);
 
   // RSS plugin stuff
   eleventyConfig.addPlugin(feedPlugin, {

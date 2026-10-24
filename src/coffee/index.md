@@ -27,7 +27,7 @@ I guess I envision this area as serving as sort of a lil' diary. A place where I
 I credit James Hoffman for getting me into coffee at a deeper level, and I find that <a href="https://youtu.be/1oB1oDrDkHM?si=lNaYABwXAL4XODhJ">his approach to the V60</a> produces very nice cups, so I follow that recipe and tweak variables here and there as needed.
 
 <b>Ratio:</b> 1:16.7 (250g water to 15g coffee)
-<b>Grind size:</b> ~16-18 clicks, so a medium fine to coarse
+<b>Grind size:</b> I'll experiment with new beans, but I default to ~16-18 clicks, so a medium fine to coarse. 
 <b>Water temperature:</b> Usually in the 92 to 95 degrees celsius range, depending on the beans.
 
 1. Bloom coffee in about 45g of water for 45 seconds. I gently swirl right after this initial pour to try and make sure all the grounds get saturated.

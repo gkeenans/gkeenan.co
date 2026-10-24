@@ -16,9 +16,11 @@ I guess I envision this area as serving as sort of a lil' diary. A place where I
 ## My current setup
 
 <b>Brewer:</b> <a href="https://global.hario.com/product/coffee/set/VCSD.html">Hario V60 Coffee Server 02 Set</a> (black)
+<b>Filters:</b> CAFEC T-90
 <b>Grinder:</b> <a href="https://timemoreeu.com/collections/manual-coffee-grinder/products/timemore-c3s-pro-manual-coffee">TIMEMORE Chestnut CS3 Pro</a> (black)
 <b>Kettle:</b> <a href="https://timemoreeu.com/collections/the-kettle/products/timemore-fish-smart-electric-pour-over-kettle">TIMEMORE Fish 600ml</a> (black)
 <b>Scale:</b> <a href="https://timemoreeu.com/collections/kaffee-wageplatte/products/basic-2-0-electronic-espresso-scale">TIMEMORE Basic 2.0</a> (black)
+
 
 ## My current method
 
@@ -29,8 +31,8 @@ I credit James Hoffman for getting me into coffee at a deeper level, and I find 
 <b>Water temperature:</b> Usually in the 92 to 95 degrees celsius range, depending on the beans.
 
 1. Bloom coffee in about 45g of water for 45 seconds. I gently swirl right after this initial pour to try and make sure all the grounds get saturated.
-2. Pour 50g of water and gently swirl to make sure the grounds all settle.
-3. Every 10 seconds or so, pour an additional 50g of water until you reach 250g.
+2. Pour 50g of water and gently swirl again to make sure the grounds all settle.
+3. Every 10 seconds or so, pour an additional 50g of water until I reach 250g.
 
 <b>Target drawdown time:</b> 2.5 to 3 minutes (highly variable)
 

@@ -21,7 +21,7 @@ I was going to wait until my previous beans were completely gone to try this, bu
 ### Optimal cup
 Still experimenting, but the following has produced my favorite cups.
 
-**Grind size:** 18
+**Grind size:** 16-18
 **Water temp:** 95 C
 **Drawdown time:** 2.5 minutes
 
@@ -29,5 +29,8 @@ Still experimenting, but the following has produced my favorite cups.
 
 ##### 10.24.2026 | Grind size
 Took [Nick Heer's advice](https://social.lol/@nickheer@c.im/117491364169291791) and went finer with the grind. Dialed down to a 13 from 18. Resulting grind was very fine, almost the texture of wet sand. Drawdown time increased from about 2.5 to 3 minutes. Overextracted.[^1] Lost some of the juiciness, and was greeted by more bitterness. Not a terrible quality bitter, but noticeable. Dialed up three clicks to 16 and will revisit tomorrow.
+
+##### 10.25.2026 | Grind size
+I think 16-18 clicks is the sweet spot for this one. At 16, I am still getting a lot of the sweet, bright, juicy flavors and a little bit of pleasant bitterness on the finish.
 
 [^1]: Obviously no shade to Nick. I'm looking forward to seeing how much I can fine tune this one.
